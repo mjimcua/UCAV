@@ -1,0 +1,1001 @@
+id;nombre;apellidos;email;phone;id_agencia;num_noches;tipo_habitacion;numero_habitaciones;importe;moneda;num_tarjeta_credito;credit_card_type
+3d34dda6-1a12-4918-9d74-039edc2864e0;Adan;Kuban;akuban0@xinhuanet.com;(578) 1996138;;;triple;1;$664.72;Euro;3,53588E+15;jcb
+76645bf4-d85d-405c-a17b-2537d73b4f76;Leoine;Bottjer;lbottjer1@ycombinator.com;(635) 5343345;54868-6305;;double;2;$500.18;Euro;3,79457E+14;americanexpress
+5a0da871-27b9-47ef-83fe-aea2778fd504;Gonzales;Bream;gbream2@apple.com;;;;triple;3;$442.29;Rupiah;5,60223E+15;bankcard
+1a7b6c3f-4b4a-4f0e-9666-bef7a10d32ee;Jemima;Antonomolii;jantonomolii3@about.com;(183) 9490676;;;single;2;$531.57;Rand;3,55406E+15;jcb
+d59078d7-e0c3-4c34-ba07-c8678d57736c;Genevra;Letteresse;gletteresse4@clickbank.net;(420) 1756834;;;double double;1;$235.51;Rupiah;3,57252E+15;jcb
+4e609ffd-2fbe-4596-8e99-71f48ab90ff3;Welbie;;;(740) 9031786;;;double double;3;$377.04;Ruble;3,55754E+15;jcb
+8b4b0593-e718-46dd-b57f-c71fe21814e4;Andy;Linscott;;(668) 2281021;;;double;3;$494.86;Euro;3,74288E+14;americanexpress
+84d1c0aa-72bd-41fc-a49c-a051c69f964b;Hinda;;htosh7@upenn.edu;(385) 5871135;;;double;3;$396.41;Real;5,60222E+15;bankcard
+b19423f0-3adc-42d7-813f-d2d097314145;Chancey;Teal;cteal8@liveinternet.ru;(666) 5251841;;;single;3;$522.78;Ringgit;3,52845E+15;jcb
+9c4dbb49-6f78-4ae0-ad62-c024fa6f44d9;Loralee;Grinsted;lgrinsted9@purevolume.com;(960) 5981961;;;single;2;$219.70;Koruna;3,5808E+15;jcb
+358237eb-eb2d-4444-b674-8207c63ae04f;Ardyth;McMorran;amcmorrana@prnewswire.com;(203) 3128830;10157-9826;;triple;1;$593.77;Dinar;4,93665E+18;switch
+338e23e6-aafa-4224-b0c7-7ab1d6993e9d;Alfy;Boys;aboysb@sohu.com;(992) 9153131;;;king;2;$313.29;Rupee;3,55039E+15;jcb
+5e748a45-6aa1-4c59-8c72-c11dd7035b53;Darcy;;docrottyc@theglobeandmail.com;(939) 1921135;;;double double;1;$80.19;Krona;5,39326E+15;mastercard
+55cfc5ec-ea1f-48d5-b321-8d72a26e662f;Nan;Cockling;ncocklingd@deliciousdays.com;(399) 3843401;;;single;1;$731.13;Yuan Renminbi;3,56139E+15;jcb
+8b85b9ed-88e2-44b6-a5d1-dff6491552ca;Axe;Twinbrow;atwinbrowe@123-reg.co.uk;;;;double;1;$747.32;Yuan Renminbi;3,53897E+15;jcb
+6db30114-0d13-4a57-8cc8-b7d7e49efc2b;Reube;Chipping;;(993) 2739120;;;triple;3;$215.56;Yuan Renminbi;2,01523E+14;diners-club-enroute
+b937a543-0b36-43e2-bfd5-d3d9d89003e8;Melodie;;mtesyrog@weebly.com;(221) 6136161;;;single;1;$290.31;Yen;4,91161E+17;switch
+b07d46a7-590b-4bef-8e47-de502f0532b0;Leonora;Keepe;;;;;double;1;$208.46;Rupiah;3,37941E+14;americanexpress
+b5544d7b-377c-4216-8607-145de327cce0;Viviana;Mouth;vmouthi@accuweather.com;(227) 7261090;;;double;2;$131.53;Rupee;3,55999E+15;jcb
+f011a1d5-19f3-4272-9adb-476d509c3ed1;Corie;Boocock;;(912) 3104014;;;single;1;$678.60;Rial;5,00766E+15;mastercard
+a21e625d-4932-41e7-b808-12c571601b44;Hasty;Helling;;(506) 7830135;;;double;2;$127.89;Yuan Renminbi;3,74284E+14;americanexpress
+845aacb9-8f6d-4854-9ec6-6ec7ae4eb18c;Waring;Uvedale;wuvedalel@prweb.com;(348) 4788280;;;double;3;$370.50;Naira;5,0386E+16;maestro
+6d465c13-265b-4625-816f-0a47172089a5;Jennee;;jbentingm@ycombinator.com;(155) 7114208;;;double double;1;$462.15;Krona;5,01807E+17;maestro
+b44cfc69-12b7-40d5-866a-fb070b173a55;Angela;Forseith;aforseithn@privacy.gov.au;;66336-673;;double double;1;$446.80;Somoni;3,54652E+15;jcb
+0c3d888e-eea3-4047-9c84-1c5fe22eff41;Phil;Surgen;psurgeno@amazonaws.com;(807) 3110783;;;double;2;$184.02;Yuan Renminbi;5,60221E+15;china-unionpay
+c3e0e456-b78b-4fe0-95bc-1a481436f8ec;Eimile;Romanin;eromaninp@booking.com;;;;single;3;$375.97;Real;3,5807E+15;jcb
+112c2978-5035-4881-a4f2-0e4af207d64a;Cordie;Chaucer;;(710) 4878835;;;single;2;$354.94;Euro;6,33421E+18;solo
+cbca1ee1-c367-4980-a358-9bc03ee685c2;Georges;Pluthero;gplutheror@craigslist.org;(122) 3640116;;;king;3;$274.16;Rupiah;5,10876E+15;mastercard
+9d7e9fff-21f7-4c02-af68-ef33895bc146;Tiphanie;Snibson;tsnibsons@nasa.gov;(254) 4667685;;;double;3;$533.67;Rupiah;3,55932E+15;jcb
+4f442641-5598-478a-bfc8-c648bca12fb0;Lilli;Dickson;ldicksont@walmart.com;;;;double;2;$673.10;Rupiah;6,76183E+18;maestro
+5d945065-e043-4c57-89de-773b328d14d8;Hilda;Luebbert;;(416) 8096749;;;single;1;$623.41;Lari;5,64183E+15;switch
+746defdc-e394-476c-b2b5-25d1f0770f10;Shawna;Gabriely;;(836) 4759213;0603-1147;;triple;1;$552.63;Shekel;3,57823E+15;jcb
+2056b42c-9dde-4139-a5bc-a7bdc3d8a908;Annora;Asple;aasplew@reuters.com;(242) 5348774;;;single;3;$142.82;Zloty;4,90524E+17;switch
+ec074843-fd11-4cdd-b9ec-e3db45f5845f;Aila;Brosini;abrosinix@nhs.uk;(420) 2050734;;;triple;1;$58.51;Euro;2,01689E+14;diners-club-enroute
+425ea6e9-33a7-41a1-a88e-6c1d672b58e8;Carine;Tother;;(767) 1435464;;;double;1;$679.50;Euro;4,175E+15;visa-electron
+232ddc0a-4a47-4edb-926d-cd3383f718b2;Gaelan;;gtomlinsonz@upenn.edu;(408) 4758927;;;triple;3;$104.33;Peso;3,74288E+14;americanexpress
+d7d25b09-fe8f-4984-a743-42514df5475d;Yolanda;Cheston;ycheston10@icq.com;(461) 5456859;0093-0011;;double;1;$629.41;Peso;6,30421E+18;maestro
+484919a0-32cb-4ecc-b4bd-22eaf6e76a24;Fletch;Bote;fbote11@dailymail.co.uk;(865) 4646917;;;king;3;$209.52;Taka;4,93604E+17;switch
+a4310866-8460-4af7-bc92-95d93a9d796b;Tremain;Acutt;tacutt12@sciencedirect.com;(977) 5547740;63548-0064;;triple;3;$301.49;Peso;3,55209E+15;jcb
+f81c8b7b-1c75-4b0a-b2c0-ad8871f5f254;Billy;Brelsford;;(699) 9273748;;;double double;2;$330.96;Yuan Renminbi;5,10013E+15;mastercard
+a140d4cc-b6d5-45d4-90f2-08818d665d8a;Valaree;;vhackley14@parallels.com;(364) 3527580;;;double;3;$259.08;Ruble;5,60222E+15;bankcard
+a8b2545e-c3ac-460a-ba59-d2de52458790;Theodor;Padillo;tpadillo15@mapquest.com;;;;single;3;$667.14;Sol;4,04159E+15;visa
+1a91fe59-2a3a-43dc-8840-4ffda45e7e82;Urban;Cathel;ucathel16@reverbnation.com;(407) 6585518;;;single;2;$649.66;Peso;4,40535E+15;visa-electron
+3ab44049-b4c2-459c-9502-bb877c4b4435;Maribelle;Jenman;;(720) 6551107;;;triple;1;$116.17;Euro;5,60222E+15;bankcard
+ec2708b3-c399-493a-af48-73019475e60d;Claudelle;Kiezler;ckiezler18@biblegateway.com;(381) 6566360;;;triple;3;$614.09;Yuan Renminbi;6,75918E+17;switch
+ddc77b1f-16d9-4bbd-9c6f-a87bd885a456;Arlen;Cund;acund19@google.nl;(293) 3174329;;;double double;3;$471.64;Peso;5,10013E+15;mastercard
+21c99f2f-b88e-483a-a03e-927b8eaa9e49;Nathanael;;nmaude1a@bravesites.com;;;;single;1;$625.45;Euro;6,04419E+14;maestro
+09273c2f-1d02-4da5-88f9-fac9051246e9;Jackqueline;Ridley;jridley1b@google.nl;(505) 9020581;;;;;;;;
+c96180b9-cf9b-4d4f-a327-d4f2b3e551a3;Zaccaria;Patient;zpatient1c@usda.gov;;;;;;;;;
+b02e2e9d-8187-45b2-a041-10cbf972a7a2;Lonna;Salan;lsalan1d@census.gov;;;;triple;1;$41.34;Ruble;5,03819E+18;maestro
+b06cd2a5-e479-4b1f-8b5b-2ea2d0833dde;Maighdiln;Cluney;mcluney1e@va.gov;(498) 7170554;;;double;3;$275.60;Peso;3,03033E+13;diners-club-carte-blanche
+59d3ba52-fc44-4f28-94e6-e1e9545027d1;Tabb;;tprobey1f@salon.com;(179) 4812617;;;single;2;$612.07;Rupiah;5,58382E+15;diners-club-us-ca
+1eab54fe-bafe-4802-9bb3-20e05206fcd5;Immanuel;Russi;irussi1g@cyberchimps.com;;;;single;1;$755.27;Rupiah;3,5289E+15;jcb
+d680cccc-bfde-4d12-872e-85c79b38ca8b;Heidie;Kinde;hkinde1h@toplist.cz;(181) 8070536;;;single;1;$451.91;Yuan Renminbi;3,02326E+13;diners-club-carte-blanche
+1728c29f-dd6f-4d4f-a36c-837baa597812;Clarinda;Kinworthy;;(354) 8094539;;;single;2;$243.97;Rupiah;3,53989E+15;jcb
+774da830-f592-478e-9b21-447cf3ce622e;Rasia;Extence;;(760) 4439778;;;double;3;$650.91;Real;3,57168E+15;jcb
+b79766e7-0400-45a2-b9fa-8dce9f6a8f9b;Patti;Noot;pnoot1k@edublogs.org;(390) 5837576;55154-9439;;double;1;$412.51;Euro;3,55062E+15;jcb
+053433ba-585a-49bf-842b-337ffad3e792;Nariko;;nvella1l@icio.us;(873) 2754683;21695-862;;triple;3;$701.43;Real;5,01012E+15;mastercard
+fc58d9ed-6426-47ac-8439-9853a03509ae;Carmine;Pesik;;(773) 3761769;;;king;1;$62.39;Euro;3,57515E+15;jcb
+08d9b29c-c565-4c5c-8d07-c45707f15e6f;Ryon;Jon;rjon1n@liveinternet.ru;(218) 4212581;;;double;1;$635.75;Yuan Renminbi;3,57999E+15;jcb
+3af8543e-a7fa-4dd4-a7d1-3ff4201ceba9;Ossie;;oniccolls1o@china.com.cn;(497) 4649418;;;triple;2;$445.85;Euro;3,55918E+15;jcb
+d54127fa-97a6-4a19-9918-7c0656c1dfc7;Meade;Blaxland;mblaxland1p@github.io;(650) 7770472;;;triple;1;$596.72;Dollar;2,01823E+14;diners-club-enroute
+83ca73d9-4b27-44b2-a797-ba1c22914191;Carling;;;(951) 5818039;;3;double;3;$617.10;Sol;3,58087E+15;jcb
+2b1bcae8-788d-42c4-86f3-584462a4617a;Sax;;shadenton1r@samsung.com;(615) 7868063;;;triple;1;$715.04;Peso;3,54941E+15;jcb
+93ec8ee2-9f74-47b6-8711-86ae004b3848;Arlan;Fibbitts;afibbitts1s@diigo.com;;;;single;3;$163.04;Euro;5,60224E+15;bankcard
+7d7f00b5-d54d-43ef-b6e1-27c501efd59e;Gery;Voice;;(853) 8306299;;;single;3;$752.45;Peso;4,90582E+17;switch
+1ffd7f2e-eb0a-4966-abab-8f87e64a4d1b;Ferris;Crystal;fcrystal1u@about.me;(818) 6818326;;;single;3;$443.20;Rupiah;5,45813E+15;diners-club-us-ca
+10eb4fab-7dc6-48d9-8594-ee99daba8b6c;Jilleen;Lunnon;jlunnon1v@uiuc.edu;(994) 8284837;;;single;1;$197.31;Krona;2,01731E+14;diners-club-enroute
+0802a5ce-e5a2-4c72-97dc-230544a0ea41;Xylina;Miskimmon;xmiskimmon1w@timesonline.co.uk;(637) 4826847;;;single;1;$628.41;Lev;6,38231E+15;instapayment
+9aaa711b-bfc7-4823-9dbc-6ec18342adf6;Dory;Gerred;dgerred1x@accuweather.com;(298) 6254380;;;double;2;$630.81;Koruna;5,00767E+15;mastercard
+efeb34d9-64bf-4a81-baca-608c56cef5b6;Russell;;;(771) 2391785;57691-117;;triple;2;$641.62;Rupiah;4,8448E+15;visa-electron
+9ccbdd40-a85f-4e81-ae9d-128cc18d4e17;Nathanil;Rumbelow;;(937) 2828042;;;single;3;$104.20;Ruble;2,01405E+14;diners-club-enroute
+4e7e3a5d-5b03-4907-95ca-ddae8e99bdbe;Hermy;Gorringe;hgorringe20@artisteer.com;(138) 9211336;;;triple;1;$92.70;Euro;6,75933E+17;switch
+04cf5f39-4d24-4256-b0fe-68198897f67d;Bondy;Levington;blevington21@ihg.com;(416) 8025375;;;double;3;$202.46;Euro;3,5363E+15;jcb
+2467daed-c3cc-48d4-a269-4fab667e6306;Eugen;;epalin22@last.fm;;;;single;3;$587.92;Euro;3,57807E+15;jcb
+222d209e-54ea-46f5-b85f-ee2371afede5;Donielle;;drosendale23@independent.co.uk;(184) 2163480;;;double;3;$245.24;Yuan Renminbi;3,53285E+15;jcb
+eaa3fbcc-fe2f-4c5e-bcf2-35f85fd5f287;Anet;Redwing;aredwing24@dedecms.com;(937) 5235362;;;king;2;$698.98;Peso;5,60223E+15;bankcard
+7ff97388-c888-4084-82fe-ce2cb6716fdb;Cy;Joney;;(438) 9041457;;;triple;3;$406.78;Yuan Renminbi;3,56396E+15;jcb
+4fe3a869-8d22-4a91-9254-1b20c16d1ade;Pearline;Harragin;pharragin26@goo.ne.jp;(722) 9732737;;;double;1;$314.75;Real;3,52981E+15;jcb
+c2e71379-840a-49d7-86ea-00ba1237f6d6;Alissa;Sterre;;(393) 5234287;;;triple;3;$722.74;Dirham;5,32437E+15;mastercard
+ff0ac035-7ee9-4c92-b0ab-683e337d779b;Ky;Bruhnsen;kbruhnsen28@printfriendly.com;;;;single;1;$729.64;Euro;5,10015E+15;mastercard
+0764ab7c-6429-453f-be91-a5fdde0e6c7c;Iggy;Le Hucquet;;(512) 6071251;;;double;1;$322.80;Rupiah;5,10014E+15;mastercard
+bc67071b-f88f-453e-878c-9ed477b26b03;Bert;Leamon;;(708) 6046418;;;triple;2;$434.79;Krona;5,60223E+15;bankcard
+ea66cd02-0c8f-4262-a4bc-e13ca1f807a1;Tally;;tbottle2b@goo.gl;;;;triple;1;$585.14;Yuan Renminbi;6,70996E+15;laser
+739f4337-6ef9-4fb1-99f8-e0f9aef7f1e9;Jacintha;O'Calleran;jocalleran2c@globo.com;(694) 7806089;;;single;2;$254.54;Ruble;3,53479E+15;jcb
+5bd42979-3f0d-48d0-8e53-850ac02bd3ee;Liz;Haining;lhaining2d@weibo.com;(178) 5512833;10019-063;;;;;;;
+1a230156-b1f8-42df-a899-d0a272731c15;Borg;;bjirick2e@ftc.gov;;;;triple;3;$65.32;Yuan Renminbi;3,74289E+14;americanexpress
+5a7603a0-9965-4d3a-98bb-d16f063c265e;Barnie;Eronie;beronie2f@miitbeian.gov.cn;(610) 6929912;67544-161;;triple;2;$118.74;Taka;3,74283E+14;americanexpress
+268b6991-e524-4717-91d1-9de183c4c513;Shena;Esslemont;sesslemont2g@bluehost.com;(970) 8353293;;;triple;2;$122.69;Koruna;3,00358E+13;diners-club-carte-blanche
+cdb568d7-8899-4795-ac59-c31736ea52b7;Sterling;;;(934) 9914381;;;double;2;$310.14;Colon;5,10015E+15;mastercard
+9b340246-b70c-498a-a8ad-90a997691673;Phineas;;phildred2i@networksolutions.com;(410) 5727474;;;single;1;$388.59;Yuan Renminbi;3,55345E+15;jcb
+0b41dff6-e1c6-4187-99e3-30ce5c8d9583;Darcey;Huxton;dhuxton2j@nyu.edu;;;;single;3;$179.09;Ruble;4,40583E+15;visa-electron
+327a4eb6-8b56-4938-96d7-58a30ad48a19;Giulio;;gburtt2k@shareasale.com;;;;double double;3;$303.39;Peso;4,84487E+15;visa-electron
+f54cdddd-d107-4bc0-9839-da6a308a96e9;Prentice;;;(629) 9954617;;;single;2;$695.70;Peso;5,60223E+18;china-unionpay
+c63a8365-2030-4a86-b632-e7651a07b62a;Mikey;Blackden;;(670) 4259063;;;triple;1;$238.44;Yen;3,58199E+15;jcb
+ac455b28-be3c-41c8-a6b0-ea4531844c3e;Alley;Raubenheim;;(343) 1696651;;;triple;2;$645.19;Euro;3,53078E+15;jcb
+2c0f6c77-ccde-4bc8-bb29-072772d661d3;Isidoro;Pinkstone;ipinkstone2o@hubpages.com;(755) 4140078;;;triple;2;$619.30;Euro;2,01762E+14;diners-club-enroute
+135e6d89-6ab4-408e-acae-b4ba03145629;Margalo;;msharpley2p@phpbb.com;(397) 8011307;49580-0158;;double double;3;$407.72;Peso;4,0416E+15;visa
+8cd5898a-b392-4dcd-a3c8-c9dc1ead5102;Jolynn;;jcoulbeck2q@addthis.com;(200) 1099828;;;triple;2;$620.45;Rupiah;4,16291E+12;visa
+1a949ba9-d0b1-46b4-a4c9-f1f4e72d4ee0;Olivia;;;(449) 2962861;;;double;2;$441.59;Euro;3,05331E+13;diners-club-carte-blanche
+cfa0a30e-d248-442f-9ae7-c9a065c91d71;Elden;;edancy2s@state.tx.us;(652) 5553000;;;triple;2;$648.06;Rupiah;3,58449E+15;jcb
+6c0fa29b-6189-4c64-b44b-66f5d4126515;Obie;Baudic;obaudic2t@baidu.com;(403) 6400278;;;triple;2;$709.72;Real;3,5832E+15;jcb
+c257d013-669b-4c28-a5f6-b481c992dc39;Gun;;gegdal2u@nymag.com;(296) 7891631;55315-721;;single;3;$433.95;Sol;6,76297E+18;maestro
+c600ec09-b734-4af0-b0fa-cc22e02f89b0;Augusto;Spenton;;(599) 8458303;;;double double;2;$497.70;Ruble;3,65145E+13;diners-club-international
+3ff44417-e902-4bb9-ac8a-6d97d9abd85a;Freddy;Favel;ffavel2w@telegraph.co.uk;(366) 9417455;;;;;;;;
+53b0d4f0-9466-411d-95be-9c6fc45e9370;Zora;Signori;zsignori2x@sciencedirect.com;(318) 6315560;;;triple;1;$206.89;Franc;4,59637E+15;visa
+af69a87d-802d-4260-aeeb-7122fe233a02;Ambrosius;;askune2y@exblog.jp;(125) 9253721;;;single;3;$712.34;Euro;5,14535E+15;mastercard
+ba4d6ca2-dc20-4c36-8535-cdfee698c4a6;Kristofor;Prudence;kprudence2z@thetimes.co.uk;(681) 8470733;;;king;3;$365.20;Peso;3,04927E+13;diners-club-carte-blanche
+fb75f28d-2240-4819-b87e-cce8cb597254;Evangelin;;efullicks30@sogou.com;(871) 5272610;;;double;3;$297.31;Rupiah;5,64183E+17;switch
+9b0f271e-e626-47ec-a283-15cf695ef3d2;Tessa;Hartwright;;(592) 7591157;;;double;3;$83.81;Sol;4,9363E+17;switch
+fdb00883-61e7-45ea-aded-43ca8bb73989;Kettie;Wytchard;kwytchard32@phpbb.com;(602) 2180087;;;single;3;$647.14;Yuan Renminbi;3,54999E+15;jcb
+544f4253-30c3-4cae-85ee-de1464a8ecd1;Jenelle;;jduffil33@1und1.de;(858) 9394550;;;king;2;$131.80;Rial;5,10875E+15;mastercard
+6ecf2a02-46de-40a3-90b0-0e7f4bc0fa79;Janette;Dulson;jdulson34@purevolume.com;;;;triple;1;$215.61;Euro;3,58286E+15;jcb
+c6acfdcc-cc87-4239-8b5c-ddf1909eaa8e;Carlyn;Pennetti;cpennetti35@vistaprint.com;(821) 3960125;;;double;1;$697.45;Pound;4,91184E+18;switch
+32569005-1f42-410b-8ff7-4654a1be905d;Corinne;Pretsell;cpretsell36@nytimes.com;(957) 6705242;;;double;3;$725.64;Balboa;3,56657E+15;jcb
+6412f7f1-489c-42cc-af0b-4305e963ef88;Tobey;Lotterington;tlotterington37@intel.com;(822) 3319962;51060-034;;double;2;$460.65;Sol;3,54802E+15;jcb
+848fac9d-4c93-4036-9f8e-369fe73e7707;Tatiania;;tbearne38@ftc.gov;(470) 4751786;;;;;;;;
+585d4466-286b-49eb-b955-38c3d9f11c10;Sioux;;smager39@tinypic.com;(834) 9120798;;;double double;2;$505.77;Euro;6,04186E+15;maestro
+7883a1af-71cc-4fd5-8e4d-5646ae6eea11;Cletus;;croistone3a@house.gov;(973) 5637159;;;double;3;$415.78;Yuan Renminbi;3,58822E+15;jcb
+3111d31e-fbbd-4064-8980-d3739e3305e7;Aretha;Kaley;akaley3b@google.com.hk;(949) 5054549;;;triple;3;$737.51;Dinar;3,54223E+15;jcb
+51dacd82-b9d7-4b36-ab33-e5486e4abc0a;Freedman;Gentric;;(345) 9825664;;;triple;1;$527.92;Kwanza;3,52861E+15;jcb
+9f5f6e47-009b-47ee-82e7-61fe890f3df0;Jessey;Abarough;jabarough3d@360.cn;(192) 3386006;;;single;1;$446.54;Peso;4,91742E+15;visa-electron
+c2fd4e2a-e703-44f5-a9e3-4fc2438abb67;Coralyn;Petrozzi;;(997) 8324894;;;double;1;$500.66;Yuan Renminbi;3,03004E+13;diners-club-carte-blanche
+c323fb69-ce1b-4f0a-8d89-e953461b0be3;Jon;Ditchburn;jditchburn3f@ebay.com;(222) 1708000;;;triple;3;$302.16;Euro;3,74289E+14;americanexpress
+c0e05d8c-7da9-49fd-8020-f4b7681debf9;Dieter;Worboy;;(104) 9016706;;;double;1;$439.15;Peso;6,04907E+15;maestro
+ad94e5bf-1395-4281-890d-c79394b2eca9;Kiley;Rimour;;(327) 4301889;;;double;1;$57.83;Peso;2,01717E+14;diners-club-enroute
+bc2a45d8-b35a-4dcb-99b3-3c82c2fecfb1;Kaye;todor;ktodor3i@msu.edu;(168) 4299208;;;triple;3;$346.97;Guarani;6,76185E+18;maestro
+73893c14-b498-43d7-a1c9-3aac5666f7fd;Iggie;Wilacot;iwilacot3j@bigcartel.com;(378) 8101734;;;single;3;$203.71;Ruble;3,55057E+15;jcb
+9876eb4e-f4f7-473e-b0d6-536cbc8e5b96;Geoffrey;Casillis;gcasillis3k@seesaa.net;;;;double double;1;$36.53;Euro;3,57148E+15;jcb
+a6cf5682-2265-468e-a1a1-32550c3c9010;Laina;Leyninye;lleyninye3l@cnet.com;(742) 8422792;;;double;2;$131.40;Won;5,47376E+15;mastercard
+968226b6-9b1a-4bb2-a783-b536d8c40061;Blane;Dymoke;bdymoke3m@goodreads.com;(965) 1447053;;;single;2;$226.29;Real;5,64183E+17;switch
+b819a012-ea76-4492-963e-3b03258d256a;Zeke;;zdederich3n@craigslist.org;(957) 6227409;;;king;2;$513.73;Yuan Renminbi;3,54933E+15;jcb
+82c2338c-6070-4bfc-be32-305149feba11;Sile;Vanderson;svanderson3o@reddit.com;(485) 4549725;;;double;3;$608.78;Baht;3,72301E+14;americanexpress
+aa538a0f-d51d-4587-ad62-5a44a1326c01;Barbabra;Barke;bbarke3p@delicious.com;(238) 8056009;;;king;3;$584.33;Peso;2,01698E+14;diners-club-enroute
+9314fc03-049f-4ac0-9f28-e9539071724d;Sabine;Beaven;sbeaven3q@xinhuanet.com;(547) 3300801;;;single;1;$332.54;Yuan Renminbi;6,70622E+18;laser
+104ab271-cc1e-4a76-843a-5fcb1e7ffbb7;Abeu;Gorhardt;agorhardt3r@histats.com;(975) 8543133;;;single;2;$605.18;Yuan Renminbi;5,01864E+18;maestro
+68f9fb7a-9e59-4477-a27d-5345d4b74e33;Pooh;Armsden;;(437) 3835114;0179-1969;;single;1;$78.80;Koruna;3,58676E+15;jcb
+73e81d4b-059e-4b1e-852f-6681bec4198a;Beatrix;Etherton;betherton3t@naver.com;(156) 7060575;;;triple;2;$759.26;Pound;3,05565E+13;diners-club-carte-blanche
+94a6ab2f-33e8-4a08-bbe4-1a0ae6d59713;Eda;;ejoannidi3u@yellowpages.com;(585) 3292409;;;triple;1;$537.35;Balboa;3,56291E+15;jcb
+1097c3a9-f8f2-4a39-b28f-3a0037544de6;Aarika;Guisot;aguisot3v@go.com;(891) 6810604;;;double;2;$97.70;Yuan Renminbi;5,01898E+18;maestro
+0828c5d3-c5a0-4ce0-949f-8404ce8e3564;Reeta;Stratton;rstratton3w@wiley.com;;;;king;1;$537.84;Yuan Renminbi;3,5564E+15;jcb
+e2756973-c730-4817-b812-2b0bb5db4935;Glen;Dunston;gdunston3x@behance.net;(481) 4186873;;;king;2;$80.68;Sol;5,89374E+17;maestro
+31bebdb5-0414-485d-8913-a544a1dd220b;Chrissy;Carrack;ccarrack3y@weibo.com;(568) 7653322;;;double;1;$318.08;Franc;3,00473E+13;diners-club-carte-blanche
+9a6b22d0-4ad3-4b10-ad01-34ca189ed46e;Hurleigh;Welch;hwelch3z@liveinternet.ru;;;;double;3;$94.66;Real;3,56551E+15;jcb
+27c8d798-270b-48cb-86f4-5c0f98a085bb;Elwin;;edambrogi40@berkeley.edu;(457) 8888490;;;triple;3;$582.31;Yuan Renminbi;5,00236E+15;mastercard
+c6c31abb-5047-45cf-b45e-1d543c56c900;Launce;Walisiak;lwalisiak41@reuters.com;;;;double;2;$98.23;Yuan Renminbi;3,57626E+15;jcb
+c9a13ba1-166e-4cd0-91f3-b8dd9f3810bc;Cecil;Oland;coland42@chronoengine.com;;;;triple;3;$673.53;Koruna;3,58968E+15;jcb
+5c9723ee-eea1-4ff5-b1cf-99b447d4effa;Kelly;;kkeaton43@com.com;;;;double;1;$287.12;Lek;3,55882E+15;jcb
+50fa2a22-539d-4b91-a427-c02f8ba6ada9;Patsy;Bernath;pbernath44@yolasite.com;(104) 8807263;;;double;1;$622.56;Real;3,54375E+15;jcb
+49c5fb55-c7d8-4e69-bacd-1264f2a96d6d;Myrlene;Delnevo;mdelnevo45@odnoklassniki.ru;(483) 1805747;10678-001;;double;2;$588.02;Rupiah;3,52906E+15;jcb
+05c939e8-5b36-460e-a6ec-5867ceaa097d;Shepperd;;sjeandin46@statcounter.com;(320) 3964604;;;single;1;$581.91;Yuan Renminbi;3,57442E+15;jcb
+1a97a4c1-20d1-4986-8c1f-d5d4b9a9f14b;Willi;Cornes;wcornes47@samsung.com;(988) 3814119;;;single;2;$740.29;Rial;5,02094E+17;maestro
+b0bbf019-a83f-49ec-b1ba-8a31eb5e115e;Gui;Ledwich;gledwich48@t.co;(174) 7053924;;;triple;1;$181.70;Yen;5,50724E+15;diners-club-us-ca
+a939b820-6c99-4e57-9c13-e63fdb8a4fa4;Wright;;wfarleigh49@marketwatch.com;(708) 9082682;;;king;2;$728.54;Zloty;3,53546E+15;jcb
+38d5d286-5de3-427f-9f77-042870e830a3;Court;;cczajkowska4a@flickr.com;(930) 1427841;;;double;1;$462.60;Euro;3,57822E+15;jcb
+1aa9b9da-89f0-4628-88da-c7f3ce505942;Haleigh;Gartside;;(907) 8809788;;;triple;1;$113.92;Yuan Renminbi;3,53812E+15;jcb
+60790d62-47da-483e-942b-53d73bd08955;Carla;;;(643) 5571354;53270-3100;;double;1;$291.65;Ruble;5,47165E+15;diners-club-us-ca
+cb80aa0b-81c8-460a-a251-efb9441d40ce;Sauncho;Ealles;sealles4d@blogspot.com;(819) 4564941;;;single;2;$65.22;Sol;3,54646E+15;jcb
+d3d1a0ad-3a03-4e1c-8d41-6138239e1812;Standford;Askham;;(477) 8193563;;;single;3;$172.50;Ruble;3,58797E+15;jcb
+d2061a00-9ac2-43c7-88cf-538bf3101e20;King;Gilhoolie;kgilhoolie4f@cdc.gov;;;;single;1;$698.88;Euro;6,76252E+18;maestro
+1196b3be-0250-4c37-be3e-705cec8111c5;Cirstoforo;Beasley;;(737) 8092186;;6;king;3;$450.62;Naira;6,7597E+18;maestro
+e474f333-9962-4d1c-b8af-68c21b49878b;Miguel;Gwin;mgwin4h@issuu.com;(305) 5593496;;;double;3;$193.67;Kuna;6,76195E+16;maestro
+afdb5da6-06f1-4f22-a84a-17351897f2bd;Hyatt;Tumpane;htumpane4i@unesco.org;(789) 2441003;;;double;3;$348.77;Kuna;6,70698E+15;laser
+d621e785-72b5-462b-bacf-76984dfe1e1e;Sibley;Elfleet;;(172) 2236523;;;double double;1;$87.03;Koruna;4,90326E+17;switch
+2012ce13-5a88-4d3e-aa7c-5c69045da46b;Chloris;Hurtado;churtado4k@people.com.cn;(162) 9809662;36987-1059;;king;1;$133.90;Yuan Renminbi;4,91314E+15;visa-electron
+f7824e08-39b6-43e4-a3fc-c1e198774e39;Stevana;;sfenlon4l@wp.com;(458) 4155857;;;king;2;$488.87;Rupiah;5,40608E+15;mastercard
+bb0a0e1d-4407-4032-82b8-98600f6063dd;Iolanthe;Stadden;istadden4m@ox.ac.uk;(767) 9292296;;;single;3;$56.62;Rupiah;3,5389E+15;jcb
+f424b197-e23b-4767-a8b7-ba93895a9805;Darsey;Sergean;dsergean4n@seesaa.net;(395) 4571801;;;single;1;$728.51;Sol;5,48143E+15;mastercard
+2cb4ad80-74f0-4962-a526-6cbcf5671dfa;Vernon;;vbowmer4o@vkontakte.ru;(975) 6741986;;;triple;3;$134.60;Ruble;4,50866E+15;visa-electron
+f938752d-a5cc-4d6d-b8b5-8d2ff40b9c59;Gerianna;Cordet;gcordet4p@woothemes.com;;;;double;1;$199.05;Rupiah;3,53575E+15;jcb
+33167e3d-417f-4ba8-9887-d4c2b5669e1f;Tamqrah;Hordle;thordle4q@nbcnews.com;(960) 7980903;;;;;;;;
+baac0255-00c8-4ba4-8464-c1ff0ec0320f;Brien;;;;;;king;1;$82.19;Franc;3,53549E+15;jcb
+d3c47eea-a09b-42c8-b157-45794dc3b87d;Sella;Ahmed;sahmed4s@clickbank.net;(619) 7828018;;;double double;2;$286.54;Yuan Renminbi;3,56608E+15;jcb
+eeae2399-e0d0-4b0f-bd7d-b4a1c208fdbd;Charis;Easbie;ceasbie4t@wix.com;(748) 6946370;;;double;1;$80.41;Yen;2,01694E+14;diners-club-enroute
+bb78e2de-4aa1-4e36-b823-c80716809358;Chuck;Gauntley;cgauntley4u@economist.com;(941) 2492280;;;single;1;$148.36;Peso;3,58681E+15;jcb
+47ef338f-69b3-4c01-a419-c148ba25b7ed;Levi;Simm;;;;;double;2;$115.49;Ruble;3,0322E+13;diners-club-carte-blanche
+06966b4e-4420-4986-a33c-041b1843665e;Jelene;Dodle;;(344) 9135286;;7;triple;1;$144.67;Yen;3,53333E+15;jcb
+ffa8d2bd-442d-4768-911d-b31eb0dd1ba7;Augie;Tremolieres;atremolieres4x@yahoo.co.jp;;;;triple;1;$296.47;Manat;5,60225E+15;bankcard
+f1289efc-a371-41ea-aa9d-9b5e43e15cf2;Saundra;Bangiard;sbangiard4y@admin.ch;(600) 2013214;;;double;1;$190.68;Yuan Renminbi;2,01733E+14;diners-club-enroute
+b8111647-d1f5-46ba-a0de-c0227e5ca03f;Sharyl;Pfiffer;spfiffer4z@barnesandnoble.com;(231) 8497290;;;single;3;$105.53;Sol;3,56482E+15;jcb
+0fc0950b-5ae7-4d22-96fb-c0f222b99937;Thain;;;(472) 8926471;;;triple;1;$46.41;Yuan Renminbi;5,20065E+15;mastercard
+31760f43-781b-458a-a16a-9909753510d2;Phelia;Harrigan;pharrigan51@flickr.com;(121) 3282350;;;triple;2;$141.66;Yuan Renminbi;5,60226E+17;china-unionpay
+7b70a695-9826-4985-aa6c-f140573be757;Aylmer;Cristofari;acristofari52@vkontakte.ru;;58394-015;;double;1;$267.83;Peso;3,55845E+15;jcb
+42f51e19-3aad-49c0-bab1-892aea7195a8;Ertha;;;;;;double double;2;$369.41;Baht;4,90501E+15;switch
+275bffec-332f-409c-af27-7f3feb65f088;Aleksandr;Pittson;;(605) 8299915;;;single;3;$441.81;Koruna;3,57738E+15;jcb
+abc63cd1-1a5f-4404-84c9-8c8ebe1c09e4;Zonda;Baudasso;zbaudasso55@angelfire.com;(714) 3396941;;;single;1;$252.20;Bolivar;6,04819E+14;maestro
+659c0552-f742-4c37-b660-fd689d3a599f;Morgana;;mgiacopelo56@imageshack.us;(816) 5624135;;;double;2;$537.40;Baht;5,04837E+15;mastercard
+57d8218d-74f8-443f-a159-d2b86111ff62;Konstantin;Castelletti;kcastelletti57@mapy.cz;(139) 2408732;;;double;3;$73.10;Pound;6,33473E+17;solo
+72b0df1b-4ef9-42e5-8ee2-9e38ab4182e9;Zebadiah;Turban;zturban58@printfriendly.com;;;;triple;1;$109.48;Yuan Renminbi;3,56018E+15;jcb
+c06699fa-ca55-4709-9081-81d9bd328a54;Waite;Stigell;wstigell59@altervista.org;(375) 9488630;;;double double;2;$649.65;Real;6,76111E+17;maestro
+580412cc-1131-41de-a062-dc6871f42fbc;Emalee;Plet;;(408) 4495302;;;triple;1;$561.80;Euro;5,00767E+15;mastercard
+92b3ec23-46f4-41d6-8b24-05f1ac4ebdc2;Kennett;Kemish;;(361) 1370386;;;triple;1;$193.17;Ruble;3,53776E+15;jcb
+6d3c020c-d80e-4998-8a90-a0b53648118b;Salomone;;seilhersen5c@ox.ac.uk;(822) 4095753;;;double;1;$378.93;Yuan Renminbi;5,10018E+15;mastercard
+b11636d5-cc4c-4bb4-8e6d-e4eb3f4856fa;Louisette;;lpelerin5d@ftc.gov;(980) 5713754;;;double;2;$435.51;Krona;5,10017E+15;mastercard
+7e81c796-1a7c-4d49-82aa-e75cec16e3ba;Lorens;Melin;lmelin5e@paypal.com;;;;double;1;$756.40;Yuan Renminbi;3,53383E+15;jcb
+ddfbc8bd-88fa-42b1-8db7-f574018c767a;Brooks;Lammie;;(243) 6530732;;;triple;1;$664.78;Zloty;3,53982E+15;jcb
+effbd9eb-182e-4bf9-bd51-f61db926c3a3;Ambrosius;Braben;;(933) 9322310;;;king;2;$607.47;Rupiah;4,75445E+15;visa
+3c43f3b4-12b5-4f11-961f-90255505e6a5;Lianna;Elmhirst;lelmhirst5h@tinypic.com;(711) 9158863;;;double;2;$141.05;Rupiah;3,05659E+13;diners-club-carte-blanche
+65e4c750-7375-4c18-adfd-e5e1b2c7f9b3;Batholomew;Roots;;(789) 2389232;;;double double;3;$539.96;Real;3,56231E+15;jcb
+f0e224aa-1340-4b42-a7d1-3b9158902cf0;Perry;Richard;prichard5j@amazonaws.com;(663) 1016086;;;single;1;$233.92;Ruble;5,16002E+15;mastercard
+539d7507-6609-4988-a7a0-da85f2e318de;Mike;Kubatsch;mkubatsch5k@archive.org;(300) 1683565;;;king;3;$312.62;Yen;6,04679E+17;maestro
+89dfa540-b777-4463-869f-49e8736a7225;Tyne;Bartolomivis;tbartolomivis5l@aboutads.info;(983) 9277509;;;triple;1;$407.07;Dirham;3,72301E+14;americanexpress
+94ec1e0e-d80d-440f-8db3-1518c5a9189f;Ernie;Dulling;;;;;triple;3;$638.09;Yuan Renminbi;3,53021E+15;jcb
+d9c2ccd4-5665-44f0-abb3-e597d8ca1f45;Fonsie;Wheadon;fwheadon5n@seattletimes.com;(335) 2339763;;;single;2;$518.48;Yuan Renminbi;3,53311E+15;jcb
+cc595bb9-fec8-4606-9874-fd9dd822e86f;Claudelle;;;(180) 9517812;;;triple;1;$564.06;Euro;3,54651E+15;jcb
+393d2fc2-ee52-44a1-a068-cf7b3225263a;Arlin;Milward;amilward5p@goodreads.com;(174) 8732828;66689-695;;king;3;$221.87;Bolivar;3,5476E+15;jcb
+2248c66e-6076-4477-bcfc-91ad150ce4af;Bancroft;;;(885) 7858821;;;single;1;$260.71;Euro;4,40581E+15;visa-electron
+bf2dfb98-3123-41a3-8a7f-bd511fc2f3f7;Delbert;;dfaltin5r@java.com;(532) 6374156;43419-339;;double double;3;$756.22;Yuan Renminbi;6,76171E+17;maestro
+0b4b2660-b77e-4dfa-9003-ddeb0aa0ab88;Rollie;Barkaway;rbarkaway5s@google.ca;(491) 5301074;;;king;3;$684.81;Yuan Renminbi;3,53231E+15;jcb
+8e2226da-8115-4911-9850-06d04bdf0a83;Petey;Sugg;psugg5t@chronoengine.com;(397) 3038380;;;single;3;$283.02;Dram;3,55092E+15;jcb
+37213e62-ab30-4df8-b83e-5412df877d6d;Yovonnda;Mougin;ymougin5u@upenn.edu;;;;;;;;;
+e0efd031-98de-4ca5-8453-e55fc0bb968d;Tamara;Petren;tpetren5v@un.org;(108) 6602240;;;single;1;$485.98;Krona;3,54315E+15;jcb
+31edaf12-8623-4b21-94e3-4709f0088f2c;Douglas;;dpatience5w@prlog.org;;;;single;1;$514.05;Dollar;3,57498E+15;jcb
+f68fc390-35d6-4775-bf1a-baf268080217;Stern;Vany;svany5x@jalbum.net;(637) 3496765;;;double;3;$564.12;Yuan Renminbi;3,56239E+15;jcb
+4815d2a6-dd13-4f87-8d25-b5e009f4a778;Lyn;Hobben;;(728) 5440479;;;triple;2;$758.59;Rupiah;6,76121E+17;maestro
+c7a167dd-cd95-4f00-8c24-5c58be050090;Jackquelin;;jscurrah5z@51.la;(596) 8332209;;;single;3;$187.91;Peso;6,33111E+17;switch
+c32329ff-84ad-4223-8bd4-88a18daac976;Clementine;Langwade;;(786) 3289832;;;triple;3;$317.06;Peso;4,8448E+15;visa-electron
+4f142c7d-8324-4a30-af0a-f73d7f395777;Nichole;Zincke;;(421) 9191075;;;double;3;$239.24;Euro;4,91742E+15;visa-electron
+08111e50-7872-425f-9b14-03167909f5c1;Renell;Corness;;(705) 3787728;;;triple;2;$118.95;Rupiah;4,50891E+15;visa-electron
+813f4a70-6f57-4745-9947-7613642bc69c;Roslyn;Mayhou;rmayhou63@multiply.com;(451) 8659644;;;king;2;$365.42;Yuan Renminbi;6,7597E+17;switch
+e65aeadc-216c-4b4b-b4ea-a7b7cbee497d;Brittaney;;;(874) 5081481;;;single;1;$694.40;Krone;4,01795E+15;visa
+d9fda1ce-04a6-4a03-8ed0-21f5b9e1712e;Maury;Ivy;mivy65@weibo.com;(731) 9376977;;;single;2;$422.41;Quetzal;3,54862E+15;jcb
+1450f23b-4913-4c9d-8173-4f3423cb2a4f;Benedicta;Yoslowitz;byoslowitz66@yale.edu;(781) 2617482;;;double;1;$48.90;Vatu;3,57185E+15;jcb
+9c325534-4ebe-447b-aae1-675ac4cb47fa;Minetta;Pyson;;(211) 2129103;;;triple;1;$270.78;Franc;3,57492E+15;jcb
+80f28c09-14d0-4855-b138-7fc754764fc0;Pearline;Doubleday;pdoubleday68@sina.com.cn;(484) 9315007;;;triple;2;$52.85;Hryvnia;3,54505E+15;jcb
+21a80885-b938-4109-ab13-f41e576d079f;Cyndie;Kenningham;ckenningham69@apple.com;(732) 7690002;;;double double;1;$73.82;Ruble;3,54323E+15;jcb
+4d68bcb3-84e6-4db0-88b4-247e7f283d6b;Ryann;Fernez;rfernez6a@redcross.org;(610) 5760968;;;triple;1;$373.17;Kuna;6,70971E+15;laser
+df689a64-8051-4f15-8fda-55500c9370e5;Scarlet;Stoves;sstoves6b@people.com.cn;(449) 2508533;;;double;2;$287.28;Euro;3,58336E+15;jcb
+5e55d3a9-9197-4cfc-8a3b-2b67af0fb809;Gilda;Boshier;gboshier6c@ocn.ne.jp;(513) 8768475;;;single;3;$626.45;Yuan Renminbi;3,5862E+15;jcb
+626265ee-f364-4a78-8721-b03c3037833b;Kaleb;Sharma;;(467) 7614582;;;double;3;$336.31;Real;3,56533E+15;jcb
+34cec295-4266-4b6f-811e-4dc65dbf73e4;Nalani;;nbaffin6e@engadget.com;(764) 2263710;;;triple;1;$745.31;Ruble;3,54884E+15;jcb
+ffa569e5-6d7e-4b03-9877-dc9efe917aba;Sven;Lethardy;;;;;single;1;$750.18;Euro;3,55716E+15;jcb
+d680c78a-27ad-4ff0-a4de-21c61dba1ee4;Bendick;Houseley;bhouseley6g@army.mil;(294) 2623722;;;double;2;$412.34;Peso;3,55374E+15;jcb
+49b64dae-6d58-40d4-a72f-8ba28066a6dd;Farah;Baglow;fbaglow6h@w3.org;(342) 2908710;57297-205;;single;3;$531.75;Yuan Renminbi;2,01774E+14;diners-club-enroute
+ba6a76e0-efd2-4912-b488-1f86de9fedf7;Natale;Atthow;;(271) 6939807;;;triple;2;$709.91;Euro;5,6107E+15;bankcard
+b50888c5-20c9-49fc-a355-4c2ea8ef3da3;Marita;Hiom;mhiom6j@dot.gov;(844) 8261798;;;double;3;$233.37;Yuan Renminbi;4,40503E+15;visa-electron
+52dbcb7f-5a06-44cd-ad36-78f2adcf857f;Jeddy;Laurie;;(574) 1559261;;;double;3;$331.98;Rupiah;6,33384E+15;switch
+627a0bf7-c02c-4af3-8cd5-08e4d1f9d9d9;Shurlock;Marcham;smarcham6l@tripod.com;(599) 1742110;68084-108;;single;2;$134.31;Koruna;3,53384E+15;jcb
+4458c513-7812-40a6-ab81-ba24025e4aa3;Patrizio;Tatnell;;(887) 6310334;51346-203;;double double;3;$183.82;Yuan Renminbi;5,60221E+15;bankcard
+d24f2926-504e-4414-b9e8-0f1e857a7ac4;Harold;Mindenhall;hmindenhall6n@home.pl;;;;double double;2;$54.23;Real;3,54843E+15;jcb
+8f251233-332c-4e4e-89d6-45418861d3aa;Tracie;Croke;tcroke6o@angelfire.com;(104) 8674507;;;king;3;$677.13;Peso;3,56074E+15;jcb
+ba83c33f-c390-43d4-94cf-c1ca28970d17;Dolorita;Pendre;dpendre6p@wordpress.com;(626) 5265948;;;single;1;$534.65;Peso;3,54294E+15;jcb
+2eb6e718-484f-4fb5-a55e-67c5fc4080d1;Ogdon;;;(551) 7134372;;;double;2;$683.11;Sol;4,01795E+12;visa
+23bb1048-76f0-4959-811e-0b7e0cd9f43c;Emmott;;eslidders6r@uol.com.br;(866) 4614323;;;triple;2;$404.77;Lek;5,48602E+15;mastercard
+f728931e-5a78-4c1a-8029-ce7f73eb06c8;Georgeanne;Bicheno;;(140) 8494107;;;double;3;$421.25;Yuan Renminbi;4,0416E+15;visa
+fe9dfe6c-ff27-4b56-b2a4-ddcf90d215e4;Aldin;;ahawken6t@discovery.com;;;;single;3;$244.35;Marka;6,77159E+18;laser
+30cba517-d9e2-427d-b998-d72a7c5b3027;Rayna;;;(399) 9945067;;;double;1;$501.95;Real;5,10014E+15;mastercard
+7dbc0eb3-1761-4525-9e76-dd719fa7ad6a;Mechelle;;mfilippozzi6v@msu.edu;(204) 1593887;;;single;3;$319.67;Rupiah;5,60222E+15;bankcard
+2c518b64-c854-4a8d-a3f4-c7bfb50051e6;Allyn;;adanks6w@freewebs.com;(961) 8636392;;;king;1;$256.91;Yuan Renminbi;5,60223E+15;china-unionpay
+4bb8953d-0547-43b8-9acf-d224dfd88881;Cilka;Brandrick;;(821) 5355790;;;single;2;$291.75;Euro;5,59691E+15;mastercard
+66ad6cc5-ff02-403d-bca9-137db3b9011e;Ailina;Faithfull;afaithfull6y@mail.ru;(648) 2532407;;;triple;1;$601.56;Taka;3,74288E+14;americanexpress
+7ed90854-8385-44b7-b5bc-aaa8599dae71;Herc;Yter;hyter6z@topsy.com;(779) 5096637;;;triple;2;$52.82;Yuan Renminbi;3,74283E+14;americanexpress
+2548182f-2c77-4a56-af56-5e39cd7eeaf7;Aloysia;Kynton;akynton70@goo.gl;;;;single;1;$619.51;Rupiah;5,10013E+15;mastercard
+2e6a5946-5027-415d-8e89-c63bc4abe737;Arne;Bruyett;abruyett71@businessinsider.com;(234) 8265020;;;triple;1;$754.13;Yen;5,00767E+15;mastercard
+0667ed95-9ab9-4712-b09e-b61ef138894d;Alissa;Boddice;aboddice72@yandex.ru;(396) 8235297;;;single;3;$764.45;Yuan Renminbi;3,01152E+13;diners-club-carte-blanche
+e3394e41-8d90-40af-8e85-5bcfbf2fd620;Ansley;Lighten;alighten73@apple.com;;;;double;2;$370.60;Rupiah;5,42765E+15;mastercard
+d1a6b56d-71a7-41dd-880d-b63ce1261c8f;Hewet;Gier;hgier74@godaddy.com;(435) 2181504;;;single;1;$319.66;Euro;4,93609E+18;switch
+74c21784-cc96-47ce-8986-c86863b3d1cb;Neel;Milner;;(225) 9336753;;;king;3;$325.66;Litas;5,02097E+18;maestro
+cf476a4d-7d96-4d06-b602-cb479ca0d645;Celestine;;;(722) 7619285;;;single;2;$534.60;Rupiah;3,53303E+15;jcb
+b7fac0eb-f325-432b-840f-1b198efbf8ce;Nanete;Sweet;;(746) 4780898;;;triple;1;$169.30;Rupiah;3,53767E+15;jcb
+1b3bf6da-c04f-4648-91bd-5f2878f0f0d9;Ephraim;Torald;etorald78@cbc.ca;(405) 3620793;51285-131;;;;;;;
+515f8e76-18f1-4eb6-8f11-5024547c1eb0;Carlyn;Davidovitch;cdavidovitch79@berkeley.edu;(564) 6770096;;;double;3;$89.37;Peso;3,56502E+15;jcb
+fb714da1-855e-4d14-b1dd-13d54f16444a;Garv;Challener;gchallener7a@sogou.com;(560) 5731063;;;single;3;$503.33;Euro;3,55676E+15;jcb
+8f3d507e-83c5-4d30-91ef-5be2a240e11e;Stesha;Berrisford;sberrisford7b@timesonline.co.uk;(634) 8480002;;;triple;1;$327.92;Peso;3,56581E+15;jcb
+0f8ac4b6-db7a-4edb-8053-939d0e4f47b4;Iorgos;Liepmann;;;;;double;2;$555.21;Yen;3,72301E+14;americanexpress
+692ec425-74ed-497b-a8ab-936f955d1ead;Gradey;Maps;gmaps7d@1und1.de;(790) 4810811;;;double;3;$483.13;Zloty;6,76138E+16;maestro
+cfcff6f8-eb0d-41a4-9a77-db9890618637;Reiko;;rzini7e@twitpic.com;(564) 4397524;;;single;1;$378.71;Rupiah;3,57307E+15;jcb
+697862bb-1e30-49ba-824e-73d2bcc507bd;Orrin;;;(904) 2817158;;;single;1;$197.68;Yuan Renminbi;4,04159E+12;visa
+48836ce0-2437-420a-8cde-4995a8e4110b;Arabele;Deane;adeane7g@xinhuanet.com;(220) 4821833;;;triple;3;$409.45;Zloty;3,03643E+13;diners-club-carte-blanche
+3abfa877-4430-4757-9320-41bd5e54e2c2;Zak;;;(247) 5626155;;;double double;1;$238.88;Ruble;3,57283E+15;jcb
+65216c35-6a9d-45df-9333-68ecbe676dda;Garreth;Sandey;gsandey7i@shutterfly.com;;;;single;3;$761.49;Euro;5,10876E+15;mastercard
+5d3f5924-7832-4fbe-8e60-643a4d6ab9e0;Lyn;;lgipp7j@webmd.com;(312) 9144221;;;triple;1;$531.31;Ruble;3,53331E+15;jcb
+833a6614-a572-4af8-b6c7-21a30e70634f;Bess;Suttle;;(414) 6921570;;;double;1;$145.16;Yuan Renminbi;3,00021E+13;diners-club-carte-blanche
+43a0d9e6-ad72-47ed-b995-9a758a1ac2e0;Timotheus;;tcapron7l@wired.com;(499) 9707341;52125-774;;triple;2;$454.54;Euro;3,58848E+15;jcb
+657c25c3-ed48-4da2-acb0-4ed0302fde5d;Zackariah;Souch;zsouch7m@tiny.cc;(106) 6751010;68788-9525;;double;3;$290.42;Peso;6,3311E+15;switch
+1adb8daf-fde1-4a01-a78a-10a4cbab1b30;Towney;Maskrey;tmaskrey7n@nature.com;;68428-064;;double;1;$274.90;Krona;5,00236E+15;mastercard
+fc27368f-5dfa-43a2-8459-bef11775b014;Idette;Winger;iwinger7o@is.gd;(416) 9441678;;;single;2;$444.23;Koruna;6,759E+15;maestro
+70a068fa-ab7a-4ea4-aefb-204e05025fa5;Margi;Craster;;(361) 5859600;;;triple;1;$574.56;Real;3,548E+15;jcb
+2a7548c7-2378-4963-b581-a67b867fa451;Hadlee;Faint;hfaint7q@cdbaby.com;(322) 5228844;;;king;3;$656.38;Yuan Renminbi;4,91779E+15;visa-electron
+146984dd-6822-4759-9bd6-474401ad3d1e;Bobbee;Cordobes;;(441) 6193958;;;double;3;$539.33;Real;5,54493E+15;diners-club-us-ca
+6b132b96-3df8-4867-872b-a9bb4449ea1f;Deedee;Ciccetti;dciccetti7s@odnoklassniki.ru;(889) 3278828;;;double double;1;$213.25;Yuan Renminbi;3,56108E+15;jcb
+e9582d0c-fbf4-4566-a003-eeec1d7a46c3;Willdon;;;;;;king;1;$696.74;Yuan Renminbi;3,5351E+15;jcb
+d1835b23-e23d-42b3-b868-ab01737a2c5a;Carma;Emeny;cemeny7u@theatlantic.com;(347) 5545825;;2;double;2;$660.00;Rupiah;3,53428E+15;jcb
+a24d1967-c85d-4fc0-8f63-77f0f4a4bf0f;Sean;Dimitriades;;;;;triple;2;$441.67;Yuan Renminbi;5,29934E+15;mastercard
+6bca551e-06f0-4c23-936e-75329a5d789f;Ravi;Haymes;rhaymes7w@weibo.com;(338) 1924024;;;;;;;;
+eebf286d-6a6c-4c4b-bf08-26bbcba23ab6;Gannie;Esbrook;gesbrook7x@aboutads.info;(402) 2517765;;;triple;3;$71.38;Dollar;2,01876E+14;diners-club-enroute
+7d376e96-2806-4c92-bcd0-dac9d7165483;Rabi;Greschke;rgreschke7y@stumbleupon.com;;;;single;2;$564.31;Krona;3,37942E+14;americanexpress
+4e653873-9750-4009-84be-d7296b325f9e;Estele;;;(243) 3241787;;;double;2;$472.69;Ruble;6,70604E+16;laser
+e47aab89-0b81-4f6d-896d-0fe18e4ab6be;Giulio;;gelnaugh80@cornell.edu;(517) 2541811;;;double;1;$710.28;Rupiah;6,77172E+15;laser
+1fb93239-d4c1-4a4a-8cff-162aa88363d2;Dimitry;;dbohlens81@paypal.com;(327) 4322464;;;triple;2;$721.54;Krona;3,58019E+15;jcb
+bbf6bda2-9a45-4021-883e-eb8fbb154dd9;Jackquelin;Esberger;;(283) 7663441;;;triple;3;$542.94;Rial;5,64182E+15;switch
+366cbcc5-97c5-4bef-a524-faae3f69e54f;Ramon;Gommey;rgommey83@hao123.com;;;;double;3;$751.72;Rupiah;6,70903E+16;laser
+239f3b52-d53f-48a1-9e2a-748973864eac;Witty;;wdimitrie84@dropbox.com;(991) 5137058;55648-983;;double;3;$454.43;Euro;3,53681E+15;jcb
+947053ec-16f7-4075-8b23-c6f303f774d2;Elfreda;Dowsing;edowsing85@seattletimes.com;(654) 7036965;;;triple;1;$568.63;Peso;6,75903E+16;maestro
+f74dbbe4-6eea-4469-ba1c-222611769a16;Timothee;McCrudden;tmccrudden86@addthis.com;(734) 2888579;55711-069;;triple;2;$49.40;Euro;3,54572E+15;jcb
+86520a7f-32ed-4a78-977d-cbd4240e2db0;Vikki;;vcamillo87@mediafire.com;(331) 5477746;;;double;1;$180.87;Rupiah;3,53573E+15;jcb
+e0aae2b7-32e6-499d-b727-4d338743a887;Sheff;Guerry;;(555) 2337533;53329-982;;single;1;$324.43;Yen;3,56914E+15;jcb
+c210e977-5ae3-414c-867b-7c55b4dcf725;Janice;Wraggs;jwraggs89@npr.org;(130) 3118019;;;triple;1;$77.44;Rupiah;3,58381E+15;jcb
+7efd7a64-1d0b-4a54-9027-646ac109be0b;Charmane;Gilliard;cgilliard8a@about.com;;;;triple;2;$272.16;Euro;3,74623E+14;americanexpress
+a2e50a74-f7b8-4155-8488-b65aff3f8e7a;Niall;;nsauvan8b@parallels.com;(391) 7794107;;;single;3;$210.52;Euro;4,01796E+12;visa
+c099b8a3-96b0-47c8-b7f6-86df5566f7e0;Berkly;Farrand;bfarrand8c@ustream.tv;(297) 9348482;;;triple;2;$517.86;Euro;3,55504E+15;jcb
+643a16fd-1719-4be4-a9f7-e0c4274ad7b8;Andromache;Huff;;(758) 8687541;;;double;1;$656.51;Rupiah;4,90354E+18;switch
+9187c09a-60c8-4ba0-93cb-b18041466e45;Dulciana;Stanlike;dstanlike8e@goodreads.com;(114) 2291215;;;double;1;$639.40;Rupiah;5,3167E+15;mastercard
+9b170ab0-ba90-4213-9ddb-b8a8fc3f8782;Aldwin;Park;;(359) 2649363;;;double;2;$673.77;Yen;3,54941E+15;jcb
+9e15ec6d-46f6-44c3-a55c-da628689f156;Forester;;fgartin8g@desdev.cn;(296) 3549425;;;double;2;$709.54;Dinar;3,56433E+15;jcb
+a0dbb5b9-09ba-4717-9512-5b0763915720;Lilllie;Udell;;;;;king;2;$708.21;Baht;3,53257E+15;jcb
+991070f9-c330-43fa-9bee-c180f6233208;Berta;Syratt;bsyratt8i@unc.edu;(449) 1951134;;;double;2;$418.37;Euro;6,7091E+15;laser
+6fa5c30d-b355-455d-8212-a38a52e9ebea;Karlie;Valenta;kvalenta8j@wunderground.com;(275) 6872483;;;single;2;$176.44;Lempira;3,05449E+13;diners-club-carte-blanche
+92a0d916-d456-4552-8a53-dabdad454a5d;Addia;Sleath;asleath8k@goo.ne.jp;(658) 3415374;;;single;1;$335.27;Zloty;3,37941E+14;americanexpress
+2a8d6d92-7458-4121-8bd6-e01e7e5fd96f;Washington;Jansik;;(513) 5287193;;;triple;1;$599.21;Rupiah;5,00766E+15;mastercard
+ddd4719c-460c-438c-9661-559624db2c0e;Far;;;(513) 6008194;;;double;3;$256.15;Peso;3,53648E+15;jcb
+e157d56c-bba9-4b1f-a16a-dc309bcc03e4;Ingmar;Voyce;;(876) 2909593;;;single;3;$525.47;Ruble;5,60222E+15;bankcard
+10057452-c753-4dae-8844-210f370e0989;Sibley;;srosas8o@dedecms.com;(134) 9176034;;;single;3;$415.30;Zloty;3,04132E+13;diners-club-carte-blanche
+cfe2f4cf-55f0-4ea0-a33c-7f14db608549;Lorette;;loregan8p@360.cn;(370) 6896280;;;single;2;$191.26;Baht;3,58938E+15;jcb
+e188ca01-46ce-41de-b270-1bac63f56012;Pam;Borgesio;pborgesio8q@pbs.org;;;;single;2;$678.00;Euro;3,57796E+15;jcb
+795b3293-ef4c-420d-8248-a56acdd1b487;Sallyann;Aldrick;;(722) 8829923;;;single;2;$504.49;Yuan Renminbi;5,0189E+17;maestro
+d0405fb0-7010-4355-99b7-2a2ef7b0a29d;Sibelle;Finnemore;;(470) 2551093;;;double;1;$638.68;Peso;6,37226E+15;instapayment
+facf5f65-4297-4e35-aceb-4459abca66bc;Kesley;Sumnall;ksumnall8t@list-manage.com;(316) 8237964;;;double;3;$474.11;Euro;4,02628E+15;visa-electron
+68531888-21a0-4c0f-9cc9-9592de9a931b;Ealasaid;Petheridge;epetheridge8u@cloudflare.com;;;;triple;2;$95.53;Yuan Renminbi;6,30421E+15;laser
+169a3de7-e8f2-4910-b4fa-e938caae1723;Ingrid;Swetenham;iswetenham8v@technorati.com;(183) 8174810;;;double;1;$755.35;Yen;3,54728E+15;jcb
+462fcd23-8f25-487a-a8be-1ae8a0dc323d;Lief;Reddan;;(178) 4521391;;;double;2;$387.51;Yuan Renminbi;3,56726E+15;jcb
+64c1cd0c-7e10-4cd8-9f3d-a15a62efc267;Yard;;ywalcher8x@wordpress.org;(314) 8737424;;;triple;1;$203.93;Dollar;3,56959E+15;jcb
+c9be98c4-4772-4abb-a75e-7ad6f4e6ecd7;Trip;Brightling;tbrightling8y@weather.com;(861) 6078038;;;triple;1;$158.98;Quetzal;3,53512E+15;jcb
+260badaf-1353-4dfe-b80f-e0fc26cea2f1;Lane;Weippert;lweippert8z@1und1.de;(261) 9829980;;;triple;3;$245.39;Rupiah;5,10017E+15;mastercard
+1ed86496-235b-4212-b0ca-db957e774874;Kaitlynn;Ehrat;;(583) 5265730;;2;double;2;$631.93;Euro;4,02693E+15;visa-electron
+833a18a3-e285-407c-a89f-3df0252fc8f4;Marline;Scrivin;mscrivin91@unblog.fr;(940) 7356029;;;king;3;$507.74;Peso;3,5395E+15;jcb
+0908f69d-f1bf-477a-92be-7bb14d5c501a;Dorie;Tourmell;;(640) 1383888;;;triple;2;$622.71;Yuan Renminbi;3,55719E+15;jcb
+17858a37-cf7f-421a-87a6-19b96e5c66f8;Ealasaid;Ellsom;eellsom93@abc.net.au;(171) 7027619;;;triple;3;$141.28;Yuan Renminbi;3,55648E+15;jcb
+6c1f303e-c374-452b-86af-a7e86c77097d;Maybelle;Highwood;mhighwood94@behance.net;(301) 6952497;;;king;1;$524.54;Yuan Renminbi;3,55083E+15;jcb
+bc0f4563-769b-4bd5-a6b9-58d88f03162d;Merell;Blaby;mblaby95@hhs.gov;(241) 3858612;;;double;2;$129.00;Rial;5,00235E+15;mastercard
+696db7e8-c8ee-4a64-aa79-cbf5930fe861;Joe;Meaden;;(221) 7219765;76358-194;;king;3;$348.28;Shekel;5,61085E+15;bankcard
+1c1705db-a629-4018-b48b-df6019ff9a32;Piggy;Wildor;pwildor97@e-recht24.de;(938) 7386287;;;single;2;$123.69;Dinar;3,54803E+15;jcb
+ccd7eea4-aaac-4199-be0c-1d4ba3c37767;Thekla;Kennard;;(705) 1386857;;;single;1;$65.02;Euro;3,57068E+15;jcb
+9362f4c9-9edb-4e8b-8388-19873742bca6;Wheeler;Furzey;wfurzey99@pbs.org;;;;single;3;$646.29;Peso;3,5835E+15;jcb
+269bd5a7-c490-4a1e-9bcc-1e37b20a9cf5;Abbott;Sepey;asepey9a@multiply.com;;;;king;1;$602.43;Ruble;4,93697E+15;switch
+812002f5-cbae-4019-8541-57bb06db984b;Georgia;Maden;gmaden9b@shutterfly.com;(747) 4857360;49035-017;;triple;2;$477.71;Rand;5,0189E+15;maestro
+62604425-a829-4fa7-b173-88fda979b2ad;Clio;;cshird9c@cyberchimps.com;(841) 8052135;;;triple;3;$179.64;Peso;5,59432E+15;mastercard
+be9ba443-622e-4d53-8093-89843a0a2fa1;Rorie;Stigers;;(405) 5604925;;;double double;3;$95.93;Dollar;5,01825E+17;maestro
+dc105825-b38e-484b-bf97-47559f77d1cd;Flint;Benois;;(559) 7017753;;;double double;2;$281.05;Euro;3,5331E+15;jcb
+86b7827a-cbea-46a0-8164-c03bdfa146d6;Berget;Giron;bgiron9f@cnbc.com;(481) 5850113;;;double;2;$227.09;Ruble;5,15449E+15;mastercard
+0d88c71a-58d3-404a-ae37-9be727353ea8;Stella;;sbaroch9g@multiply.com;(782) 3112696;;;double;2;$703.28;Zloty;3,73527E+14;americanexpress
+5eac869c-26a7-4c8f-98af-fbb0395fb821;Aigneis;Grunder;;(873) 7489205;49288-0807;;single;3;$268.90;Peso;5,10013E+15;mastercard
+b54a0d2e-6f18-4507-a308-628676849e89;Emilie;;ebruinemann9i@w3.org;(355) 1739637;;;triple;3;$425.71;Rupiah;5,00236E+15;mastercard
+494750b0-7953-4919-81eb-490a6038ed5c;Vanda;Imlen;vimlen9j@cnbc.com;(501) 5284625;;;single;3;$643.99;Rupiah;3,00755E+13;diners-club-carte-blanche
+82fe835e-75f0-4457-af0b-2c70a1dce741;Doro;;dantcliff9k@house.gov;(783) 4054689;;;double;1;$339.95;Franc;3,5427E+15;jcb
+aafa234a-f348-43a1-b745-7289716e4857;Jinny;;jfipp9l@typepad.com;(866) 3533019;68428-132;;king;2;$534.37;Naira;3,55572E+15;jcb
+49aa2326-4dd3-4d43-975d-58d065f3eb1a;Mae;Deem;;;;;double double;1;$630.33;Dong;3,5613E+15;jcb
+4d381592-1e5f-43f5-8fa1-02504bc501ba;Ashlan;Kerfod;akerfod9n@pbs.org;;;;triple;3;$478.62;Balboa;6,76394E+15;maestro
+73aeb056-2ff8-46b9-863a-4e36876e6606;Natalie;Hasell;;(447) 2320622;;;double;2;$264.45;Peso;3,54121E+15;jcb
+254e6a09-4f30-4bc6-80db-fffcccb9718c;Lorene;McGahern;lmcgahern9p@nifty.com;;;;double;3;$756.45;Lek;3,55564E+15;jcb
+db5c1b8d-c556-4ed2-ab9d-952b91fdd423;Byran;Creddon;;(793) 3532204;;;double;1;$685.61;Ruble;3,54054E+15;jcb
+e2732a11-cd1a-44d7-863e-b0aebcf7f94b;Hershel;;hprosser9r@arstechnica.com;(475) 2596977;;;double;2;$429.55;Krona;5,60226E+18;china-unionpay
+19324006-a1d1-4e0c-b295-7c20eb86eb9b;Cherise;Cohani;ccohani9s@yale.edu;(793) 1980083;;;triple;3;$181.95;Yuan Renminbi;5,89397E+15;maestro
+7448636d-e2ad-4b5f-acfa-b89fd6c1fd0d;Genni;Maker;gmaker9t@msu.edu;;;;double;3;$699.77;Lempira;3,54235E+15;jcb
+8ef2a036-036c-46d7-ac32-9b7f63767253;Brooke;Galletley;bgalletley9u@blinklist.com;(799) 4985268;;;double;2;$733.03;Rupiah;4,91702E+15;visa-electron
+19b5a3ba-12a5-49b9-9415-ac9d271dee6e;Ermin;Ellerton;eellerton9v@cbc.ca;(690) 1393650;;;double double;2;$398.62;Pound;3,5874E+15;jcb
+25667bc9-56e8-4e14-b06e-0b2420e28e4a;Junina;;;(371) 4324320;68400-358;;single;1;$255.06;Sol;5,01013E+15;mastercard
+da6a1054-c779-480d-8348-7bcd0b07197c;Anthe;Aleksankov;aaleksankov9x@disqus.com;(869) 4405821;;;double;2;$576.03;Euro;3,56122E+15;jcb
+94da16cd-8ca5-4b43-ace5-2ace148d7873;Kaye;Cartmer;kcartmer9y@indiatimes.com;(933) 2844820;;;double;1;$473.47;Rupiah;3,54018E+15;jcb
+56932fbb-a19a-470a-9ecc-e5e49cb050b1;Maximilianus;Matiebe;;;;;double;2;$606.17;Peso;6,70914E+16;laser
+0b823a88-cda9-4b01-aecf-f3670dadd7b8;Darb;;dhuckera0@marriott.com;(766) 8531644;;;double;1;$619.70;Peso;5,02089E+17;maestro
+7a82c3af-4e12-48b5-880a-6dbd42010d8b;Anatollo;Hindmoor;;(385) 2556626;;;single;1;$320.67;Peso;5,60226E+15;bankcard
+b756396b-781d-42fa-a024-38405d4b7b32;Phil;Corns;pcornsa2@springer.com;(783) 5714511;;;double;2;$335.21;Dong;6,76359E+16;maestro
+a750bec6-ada9-481d-83bb-05671079f7ff;Virgina;;;(953) 5231346;;;single;3;$63.47;Dollar;3,02304E+13;diners-club-carte-blanche
+2d7e74b5-003a-4551-a38d-a33324c2bf2b;Austen;Pinnigar;apinnigara4@last.fm;(352) 2118365;;;single;3;$116.21;Yuan Renminbi;6,33333E+17;switch
+75baf45c-c5d8-48a4-aabe-a62a8ea5fbfc;Tyrus;Bower;tbowera5@aol.com;(644) 4417155;98132-880;;triple;3;$144.76;Euro;3,52906E+15;jcb
+d2b6574c-94db-48a2-a7f9-4c65722886e1;Olav;Grimwade;ogrimwadea6@yahoo.co.jp;(965) 9875040;;;single;1;$496.16;Rupiah;5,01012E+15;mastercard
+f56206cb-1c9a-47a2-a97f-cb515d9dd812;Tate;Newman;tnewmana7@telegraph.co.uk;;;;double double;1;$515.44;Yuan Renminbi;3,74623E+14;americanexpress
+020ed57f-6d76-4fed-9df1-42b715a7975f;Stephannie;;slevingea8@posterous.com;;;;double;1;$660.36;Peso;3,55892E+15;jcb
+28e3496e-b6e3-457e-9d2f-394e29d02b66;Chucho;;;;;;double;2;$342.32;Euro;3,53266E+15;jcb
+c1be8928-f121-41b5-9abf-935ff74d4024;Bailey;Botte;bbotteaa@bandcamp.com;(276) 7667952;;;single;1;$191.10;Lempira;5,04838E+15;mastercard
+b5dddb26-738c-4acd-92f7-0788a05d367f;Phaidra;Leader;pleaderab@princeton.edu;(511) 3441090;;;king;3;$703.57;Baht;5,01809E+16;maestro
+7e78754b-54c4-404d-be9d-d0e91d09e2e4;Sawyer;;sclymerac@merriam-webster.com;(733) 9061066;;;double;1;$179.10;Yuan Renminbi;5,33857E+15;mastercard
+c313656c-f8f6-4eb2-833b-bba985337e02;Delmore;Gallgher;dgallgherad@1und1.de;;;;double;2;$175.61;Yen;3,72302E+14;americanexpress
+86ec3106-4105-4c3c-a884-ebdf8bf0f471;Con;Pirolini;cpiroliniae@smugmug.com;(305) 4561675;;;double;3;$664.62;Dollar;5,02002E+15;maestro
+85af796a-2a17-485d-a1ef-5755e18451ab;Aliza;Beaudry;abeaudryaf@amazon.co.jp;;;;double;2;$599.78;Peso;4,84458E+15;visa-electron
+7fa6f9f4-e6da-476a-9b63-31399dbf8c4a;Alexandr;Shearwood;;(632) 2183533;;;double;2;$44.94;Rial;3,55894E+15;jcb
+fcff8912-e6ec-4367-aea2-77aac6351385;Natalee;;;;;;triple;2;$406.66;Yuan Renminbi;6,77138E+17;laser
+25669218-0273-43dc-9c40-2cb0c81549d3;Sanderson;Malletratt;;;;;double;2;$221.58;Krona;4,84493E+15;visa-electron
+e6a362b9-c10b-4069-be54-795f43201118;Wilhelmine;MacGray;wmacgrayaj@ifeng.com;(925) 7218543;;;double double;2;$620.93;Yuan Renminbi;4,91308E+15;visa-electron
+e43021cf-bf67-4ae0-acea-9cfd2ae6804a;Mannie;;;;;;;;;;;
+8fe56ea4-786a-4742-adfe-f0eba0e664b1;Lock;Tukesby;;(803) 2442800;;;single;3;$591.65;Real;3,74284E+14;americanexpress
+f6fb0cb8-2b9a-4a8f-843b-4306348d55eb;Jacqui;Simion;jsimionam@eventbrite.com;(274) 8518655;;;double;1;$185.01;Yuan Renminbi;5,31951E+15;mastercard
+df6321be-1f33-4624-a85c-3182c66d8aed;Skipton;;shillaman@globo.com;(759) 5102892;;;double;1;$694.81;Yuan Renminbi;6,33111E+17;switch
+9d2903fc-8504-41c2-bc5b-d532cc921bad;Mommy;Blacktin;mblacktinao@t.co;(362) 8656847;0143-9919;;single;3;$619.91;Peso;3,74289E+14;americanexpress
+80fee3a0-3c45-4a8a-880b-37111a0c9fde;Caitrin;Lovelace;clovelaceap@hibu.com;(646) 7572933;;;single;3;$111.01;Yuan Renminbi;6,38082E+15;instapayment
+879905a0-07b2-4491-bc0a-0f0b0dd9c1c8;Berkly;Runsey;;;;;;;;;;
+76e93ce6-dcf2-497c-abe3-8989d58a5bc3;Keelby;Janko;kjankoar@photobucket.com;(373) 2124075;;;double;2;$574.95;Birr;3,54956E+15;jcb
+3be80f6c-d56e-4336-9e76-3003683a3f09;Herbie;;horteauxas@mashable.com;(308) 7731655;;;triple;2;$301.26;Peso;3,55939E+15;jcb
+51d4ede3-320d-4e75-913e-620627b9cf03;Aile;Pentlow;apentlowat@elegantthemes.com;(636) 5758927;;;double double;1;$609.99;Yuan Renminbi;5,10015E+15;mastercard
+6bb5bdcf-3872-414a-a743-46724d571469;Kingsly;Eakins;;(808) 5168044;;;single;3;$447.48;Krone;3,58192E+15;jcb
+5046eb8e-6e86-4080-b56b-b1893bc6935e;Colver;Bucksey;cbuckseyav@delicious.com;(913) 2604961;;;triple;1;$316.76;Euro;5,03882E+16;maestro
+b1b14b6a-a27d-4f96-bedf-0f32d90d0202;Josefa;Prine;;(575) 5688200;;;single;3;$232.53;Zloty;3,54068E+15;jcb
+ec9d4fb2-0f49-4d1b-b999-ab0410272aa7;Terrel;Tomson;;(119) 6993271;;;double;3;$557.87;Rupiah;3,55636E+15;jcb
+52b0fa59-cce1-4a79-8fa3-5c1a214796c8;Kamilah;Chaloner;kchaloneray@usda.gov;(788) 2697799;;;double;3;$227.63;Baht;3,58261E+15;jcb
+a8ba1e6f-efd8-4e68-85f5-1ab0ed577dea;Germana;Kubal;;(666) 9478125;;;triple;1;$53.17;Euro;2,01638E+14;diners-club-enroute
+c2d655d7-af36-429b-af8b-c3914089534e;Etienne;Ast;eastb0@webmd.com;(971) 7422675;;;single;2;$116.56;Ruble;3,5421E+15;jcb
+3d8cdf82-8a2e-40de-ad41-81e41cbbc437;Bastian;Tows;btowsb1@wikimedia.org;(564) 5257493;;;double;2;$552.44;Euro;3,56225E+15;jcb
+b3cca8b2-499c-4868-a5eb-79c28eef599f;Toni;Mosley;tmosleyb2@npr.org;(860) 3955934;;;double double;3;$367.69;Yuan Renminbi;3,57005E+15;jcb
+b5c9876b-77be-4acb-8218-f2a0786bfeb4;Skipper;Ciric;;(501) 1182080;63824-344;;double;1;$657.85;Yuan Renminbi;5,60222E+18;china-unionpay
+f1945493-516f-4db6-8886-dabc8797ab92;Cassy;Peres;;(323) 4029566;;;triple;3;$214.95;Real;6,38103E+15;instapayment
+1baf3cb6-1580-44c5-8a9a-54ba2d37425a;Vincenty;Tembridge;vtembridgeb5@dropbox.com;(316) 5996801;;;triple;1;$261.13;Dollar;5,60222E+15;bankcard
+a121d3e5-9962-41e9-acdf-cc0cd354d4ad;Trula;Cheeke;tcheekeb6@github.io;(577) 1790253;;;single;3;$380.66;Yuan Renminbi;5,89353E+15;maestro
+7b1d62c3-052b-4788-98e6-a65963c0356c;Avictor;;alissettb7@blogger.com;(333) 9076364;;;double;2;$439.21;Shilling;3,55305E+15;jcb
+741d64b7-f630-4eb6-ab4a-db975665bd77;Cindi;Chuney;cchuneyb8@alexa.com;(303) 5072008;;;triple;2;$592.34;Real;3,54094E+15;jcb
+fb8231eb-df2b-4994-9b57-c27f9a721191;Carlota;Burnell;;(840) 7551308;52533-169;;king;1;$140.41;Rupiah;3,54783E+15;jcb
+5c86e772-f917-4b70-98fd-c954549eefdb;Arni;Wiggins;;;;;;;;;;
+5d8cb201-6ace-4118-8723-4a57e59da1bd;Maris;Joslin;mjoslinbb@list-manage.com;(749) 8244301;;;double;1;$236.05;Real;2,01475E+14;diners-club-enroute
+58a74570-88d6-4d64-a091-2dc0e185d471;Sherwynd;Boddie;sboddiebc@exblog.jp;;;;double;3;$359.62;Yuan Renminbi;3,57928E+15;jcb
+f5fd2d42-4287-462d-8131-ed211b554f20;Darcey;Caitlin;dcaitlinbd@mail.ru;(220) 7430386;;;single;2;$549.16;Yuan Renminbi;3,56945E+15;jcb
+375fd02b-f2ad-4ad1-a545-7503231c79f8;Creighton;Origan;coriganbe@360.cn;(542) 6654127;64159-6969;;double;1;$211.34;Won;5,60225E+15;bankcard
+35193d38-27e5-48d6-bcee-79143cc3ea10;Maire;;mclissellbf@sina.com.cn;(350) 6273625;;;double;2;$748.85;Peso;4,91131E+17;switch
+62c0f7cd-ac01-4df2-9494-7217fb3fdb77;Vicky;Hoffman;vhoffmanbg@msu.edu;(902) 6279738;;;single;2;$461.65;Yuan Renminbi;3,55244E+15;jcb
+5acb136f-e144-4fd4-9b1e-fa2d1166d1e7;Henri;Champneys;hchampneysbh@shutterfly.com;(483) 4693192;;;single;1;$395.34;Ruble;3,54406E+15;jcb
+a224eaef-c138-4e59-9cf3-63ebfe7f7a44;Bartlett;Catenot;;(716) 7577260;;;single;2;$645.08;Yuan Renminbi;5,10017E+15;mastercard
+9d24ba2e-cc91-41b8-aa1e-ea66ea10f052;Kalvin;Hansom;khansombj@fda.gov;(460) 1819798;;;triple;2;$652.42;Real;5,54855E+15;mastercard
+88cc5155-20f3-4f8b-b3f8-5fc86d30e220;Caryn;Peach;cpeachbk@cdbaby.com;(155) 3623409;;;single;3;$69.98;Rupiah;4,90304E+17;switch
+d9de6b18-3792-437c-8e63-281b38d1cb82;Atlante;O'Shevlin;aoshevlinbl@cam.ac.uk;(312) 8425475;68703-086;;double double;3;$213.90;Dinar;5,10013E+15;mastercard
+3db41695-1e75-4161-b152-3b3b11beccc8;Brett;Kirkby;bkirkbybm@nbcnews.com;(852) 7530144;;;double;1;$757.02;Naira;3,57653E+15;jcb
+7037378c-366c-4fad-9c0f-a957364e87da;Tamiko;Chidler;;(815) 7888391;;;double;1;$511.24;Yuan Renminbi;5,00767E+15;mastercard
+8f70fc50-47a7-431a-8c54-f46a13500d19;Merrick;Coling;mcolingbo@ustream.tv;(853) 2345591;;;double;2;$474.83;Yuan Renminbi;3,74288E+14;americanexpress
+ff41d56f-ae1d-4ba6-a63d-08d10661445d;Melisande;McIsaac;mmcisaacbp@loc.gov;(837) 9413009;;;triple;3;$725.75;Kuna;3,58836E+15;jcb
+e2a8639d-1daf-4685-8ad0-5e32a916de92;Eileen;Mapes;emapesbq@flickr.com;(585) 6578287;59417-104;;;;;;;
+ff4fd0e0-dcb4-416f-ae7c-b6738d285af3;Joleen;Stolz;jstolzbr@biglobe.ne.jp;(556) 9491321;;;single;3;$459.28;Euro;5,10014E+15;mastercard
+edfb91d8-a4a7-41dc-92a7-e9009028c039;Alejandrina;Sommerled;asommerledbs@reuters.com;(897) 4860254;;;single;2;$330.84;Sol;5,01012E+15;mastercard
+667af38b-7951-4de8-948e-b2ab3d28bd74;Dana;Llopis;;(986) 1657460;55154-0533;;triple;1;$202.71;Rupee;3,58168E+15;jcb
+a913c2bd-6629-4780-b633-c5c22bf01ea1;Kristos;Padilla;;(390) 5861116;;;triple;2;$620.45;Rupiah;5,60225E+17;china-unionpay
+e1c61437-c0be-40b5-a646-c529f562e6e3;Husein;Afield;;(635) 4100049;;;triple;1;$582.06;Rupiah;3,05115E+13;diners-club-carte-blanche
+7ae6e59a-4645-408b-8a9d-5d18a35587c5;Catlin;Braz;cbrazbw@house.gov;(692) 6317739;;;triple;2;$261.61;Yuan Renminbi;3,5531E+15;jcb
+91a70813-5977-4d05-94dc-878fa1f9ce85;Jeffry;Akroyd;;(113) 8187503;;;single;1;$156.85;Shilling;5,48666E+15;mastercard
+f3b38994-f49a-4f13-b1e2-d209fc2ed3ca;Anna-diane;Linster;;(456) 9667284;;;single;1;$517.71;Rand;4,50873E+15;visa-electron
+f44128d8-4611-4180-96d4-19399606882a;Darsey;Seabrooke;dseabrookebz@blogger.com;(813) 7460473;;;single;2;$678.23;Rand;3,57007E+15;jcb
+687b54d7-cdb7-4f09-a0f2-34f2fd322719;Marcus;Roberson;mrobersonc0@ifeng.com;(860) 8086637;0268-2001;;double;1;$72.76;Peso;3,57837E+15;jcb
+671dee75-1ce2-46ac-b875-928ffaf0b806;Brantley;Radcliffe;bradcliffec1@gov.uk;(566) 3101663;;;double;3;$120.59;Rupee;3,58624E+15;jcb
+cad04f79-7fbb-45e8-8ccb-bb5b11faf961;Letti;Mapledorum;;(794) 6563850;;;triple;2;$123.55;Dirham;3,54478E+15;jcb
+e06776ec-06d9-4a9d-ae52-b148a7699bc8;Teddi;Noorwood;tnoorwoodc3@vinaora.com;(361) 9728823;;;double;2;$344.53;Ruble;3,53101E+15;jcb
+10139307-aee3-4d36-90f8-ea47f34c751d;Corena;Richardet;crichardetc4@mediafire.com;(252) 6924050;;;single;2;$195.74;Rial;6,33418E+15;solo
+ba7af538-3ebc-4d39-9154-df6a09abdaad;Mersey;Bowry;;(240) 9007628;;;single;1;$479.22;Peso;3,55375E+15;jcb
+aa13e733-84ab-4d47-ac73-19f965e4b978;Corilla;Leipnik;cleipnikc6@bloomberg.com;(145) 1975421;;;king;3;$82.40;Denar;5,64182E+17;switch
+8b26e958-8e98-4385-80ff-e87a4dec08cf;Angele;Alsina;aalsinac7@sakura.ne.jp;(199) 2068857;;;double;2;$158.99;Rupiah;3,54012E+15;jcb
+649b5418-db27-4eb8-a5c1-fb791c6a3d5d;Waylan;Gadman;wgadmanc8@google.com;(391) 3436574;;;double;1;$202.47;Yuan Renminbi;3,53191E+15;jcb
+62f49e95-d4de-45c9-8ca9-79735ce44823;Joni;Paschke;;(994) 2862880;51672-2088;;double;3;$363.60;Rupiah;2,01498E+14;diners-club-enroute
+525447f6-bdd4-4fe5-b669-1dd5e54ce0ec;Robinette;;rwetheraldca@squidoo.com;(117) 2272919;;;king;3;$501.07;Krona;3,57769E+15;jcb
+f2e75e2b-3675-47a7-88cb-f5344eb16c4a;Agata;Hryncewicz;ahryncewiczcb@vimeo.com;;;2;double double;2;$666.13;Yuan Renminbi;5,61001E+15;bankcard
+9cfa32dd-f18c-4e48-986f-0f299179151f;Judon;Scolli;jscollicc@amazon.de;(789) 5511087;;;triple;2;$507.68;Dinar;3,02323E+13;diners-club-carte-blanche
+561072ab-0430-4732-9465-deb784ec34db;Keeley;Tregensoe;ktregensoecd@hp.com;(350) 8157601;;;single;3;$631.96;Rupiah;3,53175E+15;jcb
+909f0055-d245-4061-8758-f37043452eec;Germain;Tills;gtillsce@liveinternet.ru;(951) 5370909;;;double double;3;$204.23;Bolivar;5,00235E+15;mastercard
+ebf3788e-0fa5-4346-b777-a5c6e9110481;Clevie;;clawscf@smugmug.com;(368) 6008355;;;single;1;$720.53;Krona;3,58682E+15;jcb
+cef7c766-a276-4dc8-a8dc-b33183f629a6;Edith;McArthur;;(926) 6198661;;;double double;2;$485.60;Rupiah;3,53776E+15;jcb
+0cc4aebd-6da1-4f35-9422-545641d59bff;Lars;Lapslie;;(535) 6317958;;;single;1;$139.13;Peso;5,32089E+15;mastercard
+84788b31-4822-4cd9-93cc-5d405119829a;Ora;;ofairbrotherci@miitbeian.gov.cn;(629) 8149514;;;double;1;$46.60;Ruble;5,01877E+15;maestro
+5468b1d8-055e-4a37-b2ec-f71c5bff160e;Towny;Pilipyak;tpilipyakcj@theglobeandmail.com;;;;single;1;$598.04;Yuan Renminbi;3,55829E+15;jcb
+91738ef3-133b-4f7f-8c44-b740e7246660;Jedidiah;Machel;jmachelck@pagesperso-orange.fr;(288) 9258712;64679-994;;double;1;$36.53;Baht;2,01526E+14;diners-club-enroute
+87325e37-0684-4811-be20-c342d2e83919;Brigitte;Beatey;;(903) 7114493;;;double;1;$399.58;Dong;3,57698E+15;jcb
+e45a30ce-5284-42b0-bce0-f1788ea3fbc4;Garnette;Asplen;gasplencm@narod.ru;(715) 2076679;;;double double;1;$338.98;Rupiah;3,53967E+15;jcb
+8809c897-5fad-46d2-9b63-cdb72cfd3884;Philippine;McGibbon;;(318) 8605864;;;double;1;$369.30;Ruble;5,00236E+15;mastercard
+7c98d2e2-dcfd-4021-838b-a75fc4113287;Dinny;;dcrazeco@marketwatch.com;(819) 3578100;;;double double;3;$603.06;Rupiah;3,56598E+15;jcb
+29816284-3405-4aac-888f-3964c1fb09cf;Abby;Partlett;;(914) 5181999;;;king;1;$625.59;Yuan Renminbi;3,56857E+15;jcb
+844ccc7e-133d-416a-b1cf-f1edff8ab3dc;Nanine;Bubbins;nbubbinscq@google.ca;;;;triple;3;$267.12;Kip;3,53691E+15;jcb
+3c2a046a-c1ab-471d-b074-0f551e1c0ea1;Mozes;Damrell;;;;;double;2;$623.57;Dollar;3,55162E+15;jcb
+1fd0463c-5bde-4040-8866-96eb98579c04;Link;Hallad;lhalladcs@mapquest.com;(945) 7125896;;2;triple;1;$358.04;Som;3,56193E+15;jcb
+4b9b1249-9269-4e1e-acb3-3d17d5e64b5a;Patsy;Ranken;prankenct@google.com.hk;;;;double;2;$509.91;Euro;5,10018E+15;mastercard
+ddcee53b-1f40-44b9-98ea-e38bfab49ffc;Danila;Lillecrap;dlillecrapcu@hugedomains.com;(815) 3487920;0179-0015;;triple;1;$542.20;Yuan Renminbi;3,54101E+15;jcb
+5ca90de9-a756-4154-91ca-47751bdbd31d;Liesa;Gilstin;lgilstincv@zimbio.com;(679) 9651733;;;single;1;$83.71;Rupiah;3,58861E+15;jcb
+bb1f85c2-8a51-4293-8dcb-7bf6303688c4;Sarine;Drohun;sdrohuncw@amazon.com;(568) 7443801;;;triple;3;$618.53;Peso;3,05277E+13;diners-club-carte-blanche
+5aab0134-49a6-4131-a977-c7e732e5d649;Carolan;Basden;cbasdencx@fc2.com;(310) 7712379;;;triple;2;$294.33;Dollar;5,10018E+15;mastercard
+f8fdc39c-96d7-4833-b01c-0ff19d7e6ad7;Grayce;Mapledoore;;(288) 2678682;;;double double;2;$665.95;Ruble;3,5615E+15;jcb
+bcb2ed78-3149-42b8-9219-cb134b4d7497;Veronica;Midlar;vmidlarcz@answers.com;(644) 1236951;;;single;2;$527.18;Shilling;3,37941E+14;americanexpress
+1f069666-3f61-4745-8ba1-abdd71622c40;Millicent;Hebbron;;(862) 1650654;;;double;3;$606.64;Yuan Renminbi;4,93685E+15;switch
+21d0f40f-d678-4121-beb2-8cb5c7bc6eef;Charleen;Brownscombe;;;;;double;1;$367.85;Euro;6,77154E+15;laser
+04804f53-5997-49e1-8c0a-3098f1480477;Lacy;;;(689) 7316970;;;single;3;$534.52;Peso;3,54764E+15;jcb
+93c3ce1b-a35c-497d-b450-9c3cdf237578;Debora;Bartolommeo;dbartolommeod3@dailymotion.com;(787) 2582850;;;single;3;$224.79;Krona;3,01957E+13;diners-club-carte-blanche
+f738890f-28e0-46d9-96d6-51546c77fa8e;Ethelind;Rangall;;;;;double;3;$150.08;Zloty;3,79517E+14;americanexpress
+38b10e67-a1c5-4bfe-86a2-ce7898658b91;Clayborn;Sieve;;(238) 9383230;;;single;1;$114.12;Ruble;6,75943E+15;maestro
+7f575688-f080-4d81-be9d-1ba1b154d402;Selig;;schiened6@nba.com;(793) 1943433;;;triple;2;$540.27;Baht;3,5493E+15;jcb
+9f458cbe-165b-4caf-bdf6-fe857323803d;Beryle;Sibly;;(205) 4308925;;;double;3;$542.47;Dollar;6,3311E+18;switch
+30d7ddc0-b284-451f-bec3-b23bdfdbf6ee;Katya;;khackneyd8@amazon.com;;;;triple;1;$512.99;Peso;6,76716E+17;solo
+50c57b69-bcf3-4481-ab62-ef170f876bc6;Cassie;Cicconetti;;(513) 2464354;;;double;2;$184.15;Peso;3,5326E+15;jcb
+0d569b4a-4202-4995-b8bc-b892f69f9671;Aida;Cartwight;;(510) 9062493;;;;;;;;
+39c41b1f-6c44-4277-a85e-10521590727c;Olin;Escalera;oescaleradb@miitbeian.gov.cn;(155) 1913336;;;single;2;$312.22;Yuan Renminbi;3,53061E+15;jcb
+a2fbc55c-5757-4dd1-afaa-b925129e33d9;Coretta;;cvanderbeekdc@chicagotribune.com;(750) 2196538;;;double;3;$151.46;Yuan Renminbi;3,55337E+15;jcb
+39087f56-e121-4502-84a0-fd7958c6bad3;Brigg;Bownd;bbownddd@auda.org.au;(767) 5874829;;;triple;2;$566.39;Birr;3,74777E+14;americanexpress
+370f19f5-2363-468c-a8c6-b50a6621c418;Mendy;;mtaylorsonde@hatena.ne.jp;(347) 5699996;17089-453;;double;1;$618.12;Dinar;5,60222E+15;china-unionpay
+d2c94a3c-64f5-40c8-aefe-4d218df97250;Dotti;Cutajar;dcutajardf@scribd.com;(968) 7610318;;;double;1;$420.19;Euro;2,01597E+14;diners-club-enroute
+c3792243-825f-4656-87b6-d4c1cf538d83;Brana;;bbyfforddg@howstuffworks.com;;;;triple;1;$755.41;Lempira;6,04053E+15;maestro
+c8380c2d-4223-4324-879b-540176dce2fd;Rachele;;rgillottdh@acquirethisname.com;(722) 4610796;;;double;1;$245.94;Peso;3,5333E+15;jcb
+6a268948-290b-4209-9397-5077c488d457;Aurelea;Seed;aseeddi@marketwatch.com;;;;single;3;$595.88;Ruble;3,58441E+15;jcb
+ffea7266-f682-4233-93d2-c3bca4b04342;Anita;Ding;adingdj@seattletimes.com;(608) 4945435;;;single;3;$637.86;Manat;2,0155E+14;diners-club-enroute
+6e543ec9-c66c-4b4e-99f9-f2258946df1c;Skelly;Frediani;sfredianidk@parallels.com;(707) 9756232;;;triple;1;$332.67;Krone;6,76774E+18;solo
+c8a2cc94-23ed-4525-95b1-b2794ee3cd30;Isadore;Winridge;;(812) 7061211;;;triple;2;$271.99;Naira;3,5688E+15;jcb
+02b689ac-61c5-42b0-b2ad-bf27ed643ab3;Lainey;Darrow;ldarrowdm@cafepress.com;;;;triple;2;$106.30;Euro;3,56845E+15;jcb
+7021832d-1ba6-4204-ad9b-bead3d95610d;Chan;Farquharson;;;52069-103;;single;1;$639.17;Rupiah;5,64183E+15;switch
+cd2e6403-cc4b-4d67-9de9-cbeb48b07270;Caril;;cwinsondo@delicious.com;(907) 6877917;;;single;3;$320.36;Dollar;4,02681E+15;visa-electron
+2c56e9c5-7b3d-47bd-8c66-8436df0dacdd;Johannah;;jgrzesiewiczdp@pcworld.com;(566) 1219251;;;triple;3;$484.79;Krone;3,56305E+15;jcb
+e9ae9127-9808-4d0e-9e98-41826df71f42;Lee;Jackways;ljackwaysdq@cnbc.com;(555) 8931727;;;double;1;$318.31;Rupiah;3,54472E+15;jcb
+f829c07b-bfb4-464c-9d74-136bcdc46303;Winston;Sonley;wsonleydr@techcrunch.com;(753) 7784628;;;double;1;$52.40;Yuan Renminbi;4,90543E+18;switch
+e5764a27-439e-4954-8c1a-463188e0073d;Allin;Brelsford;abrelsfordds@unblog.fr;(651) 4503575;;;double double;2;$521.83;Euro;5,03877E+18;maestro
+5a789b3e-9f01-495f-a32e-37b7bd244ed6;Domenic;Leopold;dleopolddt@istockphoto.com;(334) 8190227;;;king;2;$110.65;Rupiah;3,53001E+15;jcb
+185b8c07-d1e8-4382-be25-51f87296ed6b;Winona;Melmeth;;(713) 9040211;68308-224;;double;3;$632.22;Yuan Renminbi;5,01013E+15;mastercard
+7d11ef2f-d3b1-4528-8815-e9c0d4365a13;Malanie;;mitshakdv@vinaora.com;;;;double double;2;$443.51;Yen;3,56741E+15;jcb
+637d2f10-6a41-4281-9f48-e3b3cd5382ee;Saunderson;Binding;sbindingdw@google.pl;(893) 6248697;;;single;3;$434.38;Real;6,3049E+18;laser
+dc5f13d3-7533-4bd7-aeb0-94179b63529d;Brunhilde;Ruos;bruosdx@china.com.cn;(257) 4736794;;;single;3;$384.60;Yuan Renminbi;2,01489E+14;diners-club-enroute
+5630620f-0852-4789-bcf4-b3dddbbff866;Feliks;Matus;;;;;double;3;$222.88;Peso;3,57689E+15;jcb
+1ddb92f5-4b98-4d8a-adf6-2c4ccb343752;Gelya;Flukes;;(254) 4649027;;;double;1;$93.02;Shilling;6,33398E+15;switch
+5ef7f01e-de74-497b-9e39-21d1fbb07d21;Idalia;Demare;idemaree0@lulu.com;;;;king;1;$45.68;Rupiah;3,53163E+15;jcb
+2c30535f-8dbc-4b94-bf65-1fa0f329a989;Josefina;Leupold;jleupolde1@ehow.com;(777) 7446757;63783-016;;king;1;$329.34;Ruble;5,60224E+15;bankcard
+2bdc6d60-2db1-4287-b05f-95c55060bd23;Florance;Offin;foffine2@sfgate.com;(682) 1260786;;;triple;3;$445.17;Euro;5,60222E+15;bankcard
+19bbfedf-ac68-447e-b999-524355c95c5b;Zaccaria;Krojn;zkrojne3@unicef.org;(863) 9207049;;;single;3;$513.11;Yuan Renminbi;5,61052E+15;bankcard
+1e16aaa8-5382-434e-be09-cfd520b64d9d;Lothaire;;ldebruijnee4@soundcloud.com;(718) 8160510;;;king;3;$719.89;Yuan Renminbi;4,50808E+15;visa-electron
+f6258eb6-7377-46f4-a8d4-fcf7e135d0a9;Analiese;Syphus;asyphuse5@va.gov;(152) 8941468;;;double;2;$142.46;Rupee;5,6106E+15;bankcard
+c3e61158-98a1-4182-8887-8b9733ec0735;Holden;Grime;hgrimee6@reddit.com;;;;double;3;$144.41;Balboa;5,5188E+15;diners-club-us-ca
+f0a125b3-883d-4b45-8b23-7f6dea956d94;Laurella;Ogan;logane7@slate.com;(921) 2360344;;;single;3;$416.55;Tenge;3,55241E+15;jcb
+64531b18-a558-46ed-b8e1-63b0e60446ea;Silas;Fairnington;;(471) 7976764;;;single;3;$85.52;Dong;3,74268E+14;americanexpress
+c7ac57ae-5e6c-46f0-89cd-7e57bcd2fa18;Feliks;Kibbye;fkibbyee9@nhs.uk;(799) 1967301;;;double;1;$462.22;Yuan Renminbi;3,55665E+15;jcb
+6131c851-0a86-4ef4-ac47-402ed8cc168c;Regine;Mahy;;(935) 9083201;;;double double;3;$740.63;Zloty;5,61033E+15;bankcard
+53dc7ff9-3cd5-434d-bc4c-1de59d6227fe;Atlanta;Flaverty;;(823) 1824979;;;double;2;$132.89;Tugrik;6,3046E+15;maestro
+29ae8ffb-6e1b-4f7c-bf89-d158d5f8e76a;Nealy;Egdale;negdaleec@nymag.com;(860) 2127518;33261-944;;single;3;$230.67;Rupiah;5,02E+18;maestro
+7904d4a9-f3cb-41ce-93b5-58ae0870d5a2;Hugo;Dennant;hdennanted@yellowbook.com;(842) 8734222;;;double;1;$197.38;Dollar;3,58937E+15;jcb
+d7ff744e-4ed5-4a2a-b2ea-5a05ce551def;Noah;;nverheijdenee@trellian.com;(377) 1733836;;;double;2;$630.54;Ruble;6,70964E+16;laser
+67568e67-12f3-4e7a-8dea-fc6a88c9cb70;Sonni;;slatusef@theatlantic.com;(910) 3533746;;;double;2;$150.77;Euro;6,76171E+15;maestro
+33449c28-2c01-4201-92c1-8347608ce1a9;Marietta;Keets;;(669) 1011166;49349-574;;single;1;$138.39;Peso;3,56735E+15;jcb
+35a0002d-6d9e-4f68-b447-ce67922ac871;Lynn;Limon;;(712) 1253208;;;single;3;$561.00;Rupiah;5,60226E+18;china-unionpay
+6e5b1f62-db4e-4b86-a240-d9a41f05ba0a;Rhianna;;;(707) 1513235;;;double double;3;$697.29;Quetzal;3,57405E+15;jcb
+2fd98692-adbb-43d8-9240-24f3dba8b21a;Vittorio;La Croce;vlacroceej@t-online.de;(887) 5386765;;;double;1;$732.35;Dollar;5,60222E+15;bankcard
+6c37a4a5-0419-47c4-bbb8-fe0286d4a7d4;Bent;Molines;bmolinesek@ask.com;(537) 6265380;;;single;3;$532.57;Shilling;3,57805E+15;jcb
+41e92253-ee0f-4e4e-ad54-684bc554c871;Ashien;Barhims;abarhimsel@multiply.com;(599) 8305961;;;single;3;$216.91;Zloty;6,76362E+18;maestro
+80f8d275-545a-4bdc-b4e4-8bfc288a7290;Vernon;Espino;;(711) 3391752;;;triple;2;$82.32;Shilling;4,175E+15;visa-electron
+94238c88-4018-438c-b64f-947e2bd05dbe;Yank;Di Biagi;;(950) 3949339;63629-4526;;single;1;$81.62;Peso;3,01866E+13;diners-club-carte-blanche
+95c0de3e-5eb7-4283-854c-18818f9c3f7f;Derward;MacGovern;;(606) 3504740;;;double double;3;$539.41;Yuan Renminbi;3,55035E+15;jcb
+61164c57-d4ca-401c-b418-5c8832da1533;Alyss;Gonzales;agonzalesep@diigo.com;(117) 7051027;;;double;3;$530.37;Yuan Renminbi;5,89391E+15;maestro
+783f6cba-06b5-43a0-b2df-a0131db1ae31;Keven;Seaman;kseamaneq@creativecommons.org;(737) 7861609;;;double;2;$363.88;Franc;3,55724E+15;jcb
+1f7f6f1d-b667-4c12-b321-5d118672f2e0;Roz;Goldie;;;;;single;2;$244.11;Yuan Renminbi;5,60226E+15;bankcard
+da451047-e3e6-499d-af54-360206d5d0d7;Zaccaria;Sandland;;(991) 4162075;;;double;3;$570.09;Euro;3,5375E+15;jcb
+f7d2d117-154c-47f4-a00f-035bf26391d6;Siobhan;Fieldgate;;(960) 8244453;;;double double;3;$593.62;Rupiah;3,58667E+15;jcb
+4e6cdeb5-bdb1-4111-ab8e-17936047f62d;Durand;Garnar;dgarnareu@theglobeandmail.com;(878) 3543882;;;king;3;$306.33;Peso;3,05686E+13;diners-club-carte-blanche
+927cb2d7-7be3-4d3e-a367-4dcacfc0702b;Fern;Fishbourn;;(302) 4068871;;;triple;1;$146.41;Baht;3,58198E+15;jcb
+7ef5fcbd-4436-4c61-9cd4-b4ee2cc3f27e;Francklyn;Mantz;fmantzew@linkedin.com;(254) 8659346;;;king;2;$108.83;Dollar;4,04159E+15;visa
+86be6f07-c359-4303-afd0-2f6306a9e960;Benton;Boyet;bboyetex@mapquest.com;(490) 7786039;;;triple;3;$590.02;Rupiah;3,54034E+15;jcb
+8407d86a-e217-4478-8ad9-244a46a8e342;Warner;Tuffs;;(897) 6609742;;;triple;3;$413.37;Peso;3,57721E+15;jcb
+c595986e-45d4-458e-8bbf-5f41d000f2a6;Glyn;Giller;;(161) 9250839;;;double;3;$614.85;Zloty;3,54178E+15;jcb
+e0c08a94-1df4-4774-972d-d127b8df27ec;Hoyt;Celier;hcelierf0@ebay.com;(700) 8261321;;;;;;;;
+97435fec-cd82-4856-afcb-8d7cbb2fda09;Zachariah;Bielefeld;zbielefeldf1@bloglovin.com;(990) 6945736;;;king;3;$501.36;Real;2,01776E+14;diners-club-enroute
+c0a07d74-c852-4c2d-ade1-665bb60726c1;Ciro;Toone;ctoonef2@bluehost.com;(152) 9407083;;;triple;2;$443.16;Bolivar;3,54522E+15;jcb
+252b9bc9-33d6-47e3-b2ec-315996afdcc3;Mellie;Banyard;mbanyardf3@canalblog.com;(290) 1668233;0409-6533;;single;1;$167.62;Yuan Renminbi;5,60223E+15;bankcard
+9a65cacb-2377-4d7a-b027-dc5573531837;Sigismundo;Poytres;spoytresf4@census.gov;(820) 1822268;;;double;3;$359.52;Yuan Renminbi;5,10018E+15;mastercard
+046a9ee8-ac3d-45fc-8b36-3a7c22c72ea3;Jard;;;(648) 1114386;;;single;1;$251.70;Yuan Renminbi;3,57127E+15;jcb
+447a5c5c-78ac-4ca9-a4e6-90219da139a3;Bartolomeo;Thacke;bthackef6@1688.com;;;;triple;2;$492.91;Peso;3,5667E+15;jcb
+21646f96-21ba-4826-aaed-603952b604f0;Lucie;Ottosen;;(387) 4375934;;;single;3;$345.79;Yuan Renminbi;3,55505E+15;jcb
+5eaf66b6-ccf6-4449-a046-e2595338a415;Langsdon;Kasting;lkastingf8@columbia.edu;(527) 1096281;;;king;2;$182.73;Litas;3,56137E+15;jcb
+4e22ef4b-027a-4bae-bab9-4fde951cf061;Westleigh;Scoggins;wscogginsf9@vinaora.com;(808) 9905199;;;single;1;$205.56;Colon;3,74288E+14;americanexpress
+2539521a-556d-4cdd-a40d-58d5639c183e;Odey;Chinnery;ochinneryfa@nature.com;(103) 2782361;;;single;3;$703.82;Rupiah;3,54001E+15;jcb
+ebde27c6-4374-4593-bd25-c2b147996544;Claribel;Scarf;cscarffb@drupal.org;(291) 1777060;;;double double;3;$478.53;Euro;5,18261E+15;mastercard
+37ddce18-b761-47a8-9aad-5251ebccb05f;Grier;Tire;gtirefc@slideshare.net;(950) 2636145;;;;;;;;
+4fa5aca2-f278-46e9-95d9-b856d68b3031;Tally;Zannuto;tzannutofd@zdnet.com;(997) 4349904;;;triple;2;$698.81;Dong;3,55052E+15;jcb
+44058ba4-989f-479d-a58f-36129fbb9b85;Grove;Villa;gvillafe@printfriendly.com;(366) 4322316;10544-619;;single;1;$711.69;Euro;3,53516E+15;jcb
+d235b269-d694-4622-a234-405c7fff8f8d;Willie;Coope;wcoopeff@godaddy.com;(855) 9157444;;;triple;2;$214.28;Bolivar;5,01844E+16;maestro
+b8de6d1e-1cfc-4f5c-afe9-06be0ff0ce24;Elsey;Degli Abbati;edegliabbatifg@tripod.com;;;;king;2;$565.43;Real;6,76153E+16;maestro
+2082eebb-f5de-4b9c-89d2-85206439039e;Lou;Ingold;lingoldfh@si.edu;(717) 2138466;63739-467;;double;2;$510.29;Real;2,01644E+14;diners-club-enroute
+6b3d6e8f-3333-43aa-a780-462e61d5f9b6;Renault;Foulds;rfouldsfi@admin.ch;(288) 1673419;;;single;1;$271.40;Rupiah;4,50805E+15;visa-electron
+b88b0fbc-f430-4aae-ba7d-5462fbae3e5b;Lyndsie;;lmelledyfj@adobe.com;(640) 3752912;;;double;3;$296.38;Ariary;6,76335E+15;maestro
+6ddb2cea-92b9-4eeb-8c61-8d07f476f258;Curry;Northley;cnorthleyfk@mayoclinic.com;;;;double;1;$126.18;Yuan Renminbi;3,57217E+15;jcb
+98bf893e-a140-4ae0-9931-d3034b13bbb5;Mile;Slainey;;(432) 4911170;;;single;2;$345.99;Euro;3,58972E+15;jcb
+cb708430-3cfc-4e1c-b534-d09af90ef62a;Gerri;Woodes;;(879) 7471596;;;double;3;$352.31;Yuan Renminbi;3,56694E+15;jcb
+fe66bf1a-ea6e-4352-93ce-729116d38b23;Kimbra;Preator;kpreatorfn@jiathis.com;(310) 4284609;;;triple;1;$291.35;Peso;3,5374E+15;jcb
+1cca97e3-2a35-4d41-8236-a9dfedaf5fb8;Barri;Padkin;bpadkinfo@51.la;(884) 8999924;;;triple;2;$65.97;Yuan Renminbi;6,76106E+15;maestro
+b88eb0ad-aa39-4c1d-857d-982389f115f0;Maxi;;mcheelfp@icio.us;;68462-103;;double;1;$744.01;Peso;3,58087E+15;jcb
+9416c311-c115-4c35-9706-bafc9e8163bb;Halimeda;Rastall;hrastallfq@who.int;;;;triple;2;$380.00;Yuan Renminbi;3,56214E+15;jcb
+485a24d4-80e7-4917-8207-3d8bcfa4044f;Drew;Hallam;dhallamfr@mozilla.org;(649) 8091099;;;triple;3;$698.68;Euro;4,78391E+15;visa
+7e11af16-404f-41b6-901d-5f52e303af4d;Merralee;Rakes;mrakesfs@oracle.com;;;;single;2;$269.36;Yuan Renminbi;6,33359E+17;switch
+bd5becb4-80fb-4f0d-ae35-2d3930d2c31a;Artair;Riglesford;;(606) 6920332;;;single;2;$635.69;Rupiah;3,56167E+15;jcb
+e2bfc79d-1347-48e5-9db1-fdeafc4a6394;Marketa;Ornells;mornellsfu@artisteer.com;(981) 9039679;;;double;2;$552.54;Rupiah;6,38958E+15;instapayment
+7bb69421-d208-486d-8272-2086205bd6f9;Sutherlan;MacArte;smacartefv@hubpages.com;(203) 7204655;;;triple;1;$430.98;Krona;6,76256E+16;maestro
+e5d36235-08e9-4a54-a438-1108a6866485;Gerrard;Duffitt;;(135) 7661767;59321-055;;single;2;$396.82;Real;6,76733E+15;solo
+98c2916b-ddc7-4b1c-b220-8004c4b73912;Rollins;Linfield;;(549) 2587244;37808-647;;triple;3;$748.02;Pound;5,48294E+15;mastercard
+d622edce-b91d-48f3-9257-e291899e0f5c;Jesse;Gagen;;(468) 7099937;;;single;3;$608.64;Dram;3,53646E+15;jcb
+ff2d7648-fbad-40a8-affb-0e044f874cc6;Lilias;Oliphand;loliphandfz@irs.gov;(950) 2129933;;;triple;1;$475.60;Dinar;3,5352E+15;jcb
+a9477c99-1bf9-414c-bac1-2f88afb4e3ef;Ester;;emoncrefeg0@princeton.edu;(998) 4436596;;;double;3;$444.73;Euro;3,74284E+14;americanexpress
+4207e254-900b-4052-b95b-4ab2f87a0b8f;Irene;Denisovo;idenisovog1@live.com;(855) 7382634;;;double;1;$669.67;Krone;4,04138E+12;visa
+02fbc591-f630-4658-a0eb-384df5c14122;Eileen;Wiley;ewileyg2@webeden.co.uk;(576) 2805084;;;double;2;$38.36;Pound;6,33342E+15;switch
+4b82d2f0-279a-4e80-98e6-0ec661138f4a;Quent;Nyssen;;(251) 5576417;;;single;3;$39.63;Naira;3,55487E+15;jcb
+0a56753f-42c0-4be9-a5f9-5abe0d02a5a5;Fae;Treswell;ftreswellg4@uol.com.br;(795) 6274030;;;single;3;$248.42;Peso;4,9365E+18;switch
+acbb34a2-ec53-4dcf-8470-e0b5be540d87;Joane;Pereira;;(814) 7506804;;;triple;3;$517.66;Ruble;3,57772E+15;jcb
+ee1f7162-dafd-4fe4-9ac1-41fc0a73c555;Editha;Abramov;;(573) 4606056;;;single;1;$704.24;Kwacha;6,75975E+16;maestro
+6865c99b-16bf-4630-9be8-dbdf3953202d;Carmella;Strauss;;(723) 9848412;;;triple;1;$435.05;Peso;3,56106E+15;jcb
+aa8eb267-5733-458c-82ce-53c9a3ff8276;Wallas;Christoffe;wchristoffeg8@google.fr;(227) 3754899;;;king;2;$159.02;Rupiah;6,7631E+15;maestro
+8f838c3b-0d93-4a40-bc6c-401de88ac1f5;Moore;Fibbitts;mfibbittsg9@baidu.com;(459) 1254447;;;single;2;$554.11;Yuan Renminbi;3,56075E+15;jcb
+22b709c7-eb2b-48a1-897b-52015636a194;Zandra;Higgan;zhigganga@fda.gov;(575) 6514338;;;triple;3;$753.73;Peso;3,5408E+15;jcb
+9e3022ea-cb61-4e9e-878f-ae638c6e54b3;Flore;;;(570) 5360613;;;single;1;$129.94;Euro;3,58957E+15;jcb
+d37e9bd3-e582-4c31-a609-345b22ab57ca;Constantin;Cormode;ccormodegc@blogs.com;(531) 7627161;;;double;2;$668.86;Quetzal;3,53879E+15;jcb
+17c006f2-023c-4277-a87e-73e4f74a48d0;Bonni;Oriel;;(259) 2491869;;;single;3;$708.28;Ringgit;3,57076E+15;jcb
+285e5595-3aa4-4970-9560-f46cc53f4cf0;Wallache;Dorken;wdorkenge@upenn.edu;(573) 2557793;;;single;1;$97.82;Hryvnia;5,60223E+18;china-unionpay
+73b834e9-4eea-4bb9-9064-d31612feb75a;Darsey;Tillard;dtillardgf@hibu.com;;;;double;3;$722.24;Yuan Renminbi;6,76212E+18;maestro
+4eefe596-0712-4b4f-9df2-579bf2934694;Gui;Hartles;ghartlesgg@topsy.com;(557) 5576736;;;double;1;$369.84;Yuan Renminbi;3,58023E+15;jcb
+cba4bff2-4b65-4040-be38-878ecc6d7624;Barbaraanne;Stedmond;bstedmondgh@gov.uk;(867) 9595246;;;single;1;$71.78;Rupiah;4,027E+15;visa-electron
+c6fa7648-cd99-4f8a-bc44-3c389be1e817;Sabina;Jiracek;sjiracekgi@cisco.com;(253) 3708383;;;single;2;$392.27;Rupiah;5,04837E+15;mastercard
+ca61a8d4-3c17-43f9-9e73-0dbe79fe3b3a;Valentina;Abbatini;vabbatinigj@redcross.org;(666) 2831887;0395-1249;;triple;3;$48.56;Euro;6,76381E+15;maestro
+0442c3d2-664f-41dc-a981-fe91141ed8e2;Tamma;;;(303) 4658401;;;single;3;$67.00;Koruna;4,0416E+12;visa
+4cea39df-9f0c-4491-831a-7c19a1c5bd62;Lia;Caton;;(882) 4556122;;;single;2;$627.97;Rupiah;3,72301E+14;americanexpress
+70a93e05-7f1b-4313-a250-9d384f2f87ad;Hi;Trevethan;htrevethangm@wikimedia.org;(345) 6201971;;;triple;1;$753.62;Euro;3,57701E+15;jcb
+36dd5841-4d66-4232-86a2-fa49ad5887f5;Land;Camel;lcamelgn@webeden.co.uk;;;;double double;3;$650.26;Shilling;6,37683E+15;instapayment
+5aefc8a6-f244-4454-800c-92653d2c9b06;Osgood;Du Plantier;oduplantiergo@people.com.cn;(104) 5276829;;;single;2;$129.64;Ruble;4,40576E+15;visa-electron
+a9ab3591-4f2e-4804-9e69-306007bf0f0a;Liv;Cordon;lcordongp@netvibes.com;(975) 2374049;;;king;2;$359.45;Peso;4,02631E+15;visa-electron
+a36283b0-128b-44a8-8b53-829e6f6c6bed;Christian;Dottridge;cdottridgegq@ebay.co.uk;(832) 5926745;;;single;2;$576.92;Peso;3,54469E+15;jcb
+8a09fb60-bc05-4ced-aded-18d8b232c02c;Arley;;ablanchettegr@skyrock.com;(155) 5883884;;;double;2;$390.60;Yuan Renminbi;6,76115E+15;maestro
+b287dd19-f87e-4dee-bdca-38304b5e5c27;Sigismondo;Golby;sgolbygs@sbwire.com;(316) 1796005;;;single;2;$630.42;Peso;5,10017E+15;mastercard
+100c90fb-09c7-42fc-88f7-abd320337e3e;Keith;Yashunin;kyashuningt@alexa.com;(677) 1075170;;;double;1;$712.79;Kuna;6,37894E+15;instapayment
+443a5ef8-7dab-4811-a58b-0b46e86a787c;Janeva;;jtuddallgu@kickstarter.com;(184) 4420026;;;triple;2;$612.30;Peso;3,58855E+15;jcb
+f8d87f38-a7dc-4f20-8641-c9fd745c33c9;Justis;Garoghan;jgaroghangv@mtv.com;(621) 2712780;;;single;1;$427.91;Dalasi;5,02035E+16;maestro
+85dcd1d9-3b41-40c3-bf9a-c9c12f248666;Irma;McGrale;imcgralegw@mozilla.org;(861) 6174274;;;double;1;$387.50;Naira;5,60223E+15;china-unionpay
+ba430143-b29a-403d-a5ca-645e8c5292f5;Friedrich;Synke;fsynkegx@hp.com;(221) 6761988;;;king;1;$677.09;Dong;3,58214E+15;jcb
+ed64b099-a806-4a95-98ad-22c742f673da;Land;Weyland;lweylandgy@google.ca;(257) 4086593;;;single;2;$715.13;Krona;3,58572E+15;jcb
+494da647-711d-4365-9d9c-a0784e144d80;Jamie;;;;;;double;1;$87.69;Koruna;3,55259E+15;jcb
+b84990f6-e724-45be-bae7-7bf4d9546f86;Marcelia;;mstanistreteh0@mlb.com;(439) 6024397;;;double;3;$638.31;Ruble;3,53888E+15;jcb
+c69b9e78-d612-4f0c-999a-8a9880c88aee;Evan;Larive;;(137) 6076219;49349-966;;single;3;$41.69;Hryvnia;4,90306E+15;switch
+50075ce0-73d5-4e19-bdc4-fd780fff93a2;Yorgo;Ferrarese;yferrareseh2@wufoo.com;(925) 1735542;;;king;3;$534.82;Yuan Renminbi;5,00766E+15;mastercard
+26c6435a-f836-4d08-bda3-39ede3b94b1e;Brandais;Churchward;bchurchwardh3@oaic.gov.au;;;;double;1;$172.45;Yuan Renminbi;3,56093E+15;jcb
+507aeac1-6196-4c78-8164-83c21ceb76d6;Tammy;Carrier;tcarrierh4@storify.com;(615) 9854382;;;double double;1;$89.10;Ruble;3,55455E+15;jcb
+434c2260-a792-4b42-ad8d-bf4dd5287829;Colleen;Ranns;crannsh5@ocn.ne.jp;;;;double double;1;$323.58;Franc;3,53605E+15;jcb
+5028217d-4edd-4449-9ac6-1c1b35f8f4f2;Bliss;;;(405) 5621864;;;double;3;$404.12;Peso;3,54344E+15;jcb
+9a1e4450-2f89-47d0-803f-44aef8055b52;Mabelle;Suerz;;(955) 4314373;;;double;1;$161.21;Peso;5,60224E+15;bankcard
+8c8567fd-25ac-442c-94a0-09ed09882b58;Annalee;Hearson;;(656) 4496208;;1;king;2;$643.16;Zloty;5,46367E+15;diners-club-us-ca
+a62bb358-fe77-4e38-b759-5283eb8e3407;Estevan;De Laci;edelacih9@sakura.ne.jp;;;;triple;1;$49.98;Euro;6,38154E+15;instapayment
+e00d1ca6-8c74-49be-b6fb-7172a692b26f;Franzen;Shottin;fshottinha@blogs.com;(667) 9769204;;;double;1;$741.22;Dollar;5,60222E+15;bankcard
+24ba5a13-b13a-4c74-ac66-fd1b8803fa16;Verena;;vnorehb@netvibes.com;(246) 4156949;;;triple;1;$270.57;Euro;5,23568E+15;mastercard
+2d11fcc0-a99c-4209-b168-4900e9163d10;Melitta;Onians;;(857) 8315039;;;single;3;$666.25;Yuan Renminbi;3,57948E+15;jcb
+7498ee8f-e565-47e9-a136-3d8709c60c54;Gretta;Tackley;gtackleyhd@chron.com;(521) 3648023;;;single;3;$744.29;Ruble;3,54487E+15;jcb
+c01692a5-b996-4e2f-a14c-a5d4fd8c4fdb;Erin;Crowne;;(397) 1882386;;;single;3;$41.23;Rupiah;3,56564E+15;jcb
+40a5bb42-d0c9-40bb-94aa-be3d48eb9f72;Jeannine;;;(976) 5367664;;;triple;3;$158.55;Pound;5,61091E+15;bankcard
+b9717bb9-257d-4173-ab55-7495c81b86c0;Matelda;Whild;;;;;single;2;$177.63;Afghani;2,01765E+14;diners-club-enroute
+8767990d-4898-4875-b1b6-cd28e47977e7;Malissa;Haggett;mhaggetthh@census.gov;(614) 5945503;;;;;;;;
+5e52aaee-ecc7-44b2-8b62-bf9b2e178752;Katharina;;kpinerhi@springer.com;(194) 2990367;;;single;1;$461.10;Ruble;6,76263E+18;maestro
+5237a273-dda0-423b-82c5-07862d61233e;Kin;Scoyne;kscoynehj@timesonline.co.uk;;;;king;2;$406.31;Zloty;5,61053E+15;bankcard
+27bc25e6-aebd-4fc2-98c4-084a4617314c;Damara;Louedey;dlouedeyhk@fc2.com;(812) 3893021;;;triple;1;$380.28;Dollar;4,91788E+15;visa-electron
+dd29e265-096f-4c56-9206-7ee2015c8578;Ciel;Crunden;ccrundenhl@uiuc.edu;(356) 7813658;;;double;2;$34.21;Rupee;6,33436E+17;solo
+e0a18932-9672-4cfb-9353-1b0277fd659a;Yalonda;Goathrop;ygoathrophm@gov.uk;(380) 2131326;;;double;3;$257.62;Yuan Renminbi;4,8447E+15;visa-electron
+7429bcbb-3c40-4e18-a994-24cd41b73a51;Henrietta;;horbinehn@mac.com;(596) 9750819;;;double;1;$72.62;Yuan Renminbi;5,18919E+15;mastercard
+5d2c9190-851a-4107-a1c2-12342100e18d;Tarra;Duckels;;;;;double double;3;$574.89;Peso;3,56603E+15;jcb
+f97e77a4-2b4c-4a3f-9b8d-3d91eabc92fc;Toddy;Simpole;;(999) 6182700;;;double;1;$300.85;Sol;3,72302E+14;americanexpress
+b39dcc3e-a85d-4160-9df6-53506d73e54b;Rabbi;Pleager;;;55714-1516;;double;3;$366.84;Peso;5,31077E+15;mastercard
+622e3f47-7208-451a-bafb-f6bb98cb22d6;Sigismund;McGrale;smcgralehr@bandcamp.com;(291) 4161291;;;double;1;$270.90;Yuan Renminbi;3,57916E+15;jcb
+f134327d-f777-481b-8645-47f89af65932;Oberon;;ostonhamhs@loc.gov;(972) 8476299;;;single;3;$383.39;Peso;5,10014E+15;mastercard
+9649ef60-b77b-4466-938f-ff295d5d3b52;Lorenzo;Morant;lmorantht@google.cn;;;;double;3;$597.55;Ruble;3,55147E+15;jcb
+b4e073fe-4e46-4051-bced-aa6705236060;Mariana;Rambadt;;(478) 5424912;;;single;1;$506.34;Krone;5,26792E+15;mastercard
+23ee4c07-a940-4a79-ae8a-84b3f03791a5;Cristiano;Grayston;;;;;triple;3;$178.95;Yuan Renminbi;5,01012E+15;mastercard
+331f1dd5-11b7-48f4-9c64-a7fc7a1b9389;Mirella;Wackly;;(996) 4492737;;;triple;1;$73.26;Peso;5,10018E+15;mastercard
+e24cab42-3d95-47b3-950b-0972fed7e666;Julia;Karpe;jkarpehx@discovery.com;(521) 7659992;;;double double;1;$551.78;Dram;6,38555E+15;instapayment
+9a069735-6035-4959-982e-45ec2feae821;Luci;Ritchings;lritchingshy@cafepress.com;(355) 9786499;;;double;1;$739.70;Franc;3,54067E+15;jcb
+e964edb6-f588-4dda-b41c-f44a9d4d29d9;Verena;Credland;;(574) 3049611;;;double;2;$723.67;Yuan Renminbi;3,55854E+15;jcb
+cf423be7-953a-411c-a2a3-dbf78c8ae712;Cosetta;Keenlayside;;(902) 8758287;;;triple;1;$568.37;Real;5,40517E+15;diners-club-us-ca
+8cff6f77-789c-43c8-903a-dfb8ed4b8eb7;Laryssa;O Sullivan;losullivani1@umich.edu;;;;double;2;$177.07;Euro;3,58649E+15;jcb
+d5f62a74-18b2-4a84-a0dc-6db5ea1ab7ab;Becky;Mephan;;(223) 1209301;;;double;2;$266.10;Rupiah;3,04964E+13;diners-club-carte-blanche
+2d954875-6976-40db-9a9d-bd124865cad9;Chaddie;MacNish;cmacnishi3@fema.gov;(128) 5840225;;;single;1;$154.50;Krona;3,53443E+15;jcb
+cb4f5927-499b-405b-90e5-306a785d2ce0;Sharlene;Linck;slincki4@youtube.com;(240) 3154170;;;double double;2;$726.21;Yuan Renminbi;4,02695E+15;visa-electron
+560f6542-3008-404f-a9de-4a4c11f8b91f;Wainwright;Greeding;wgreedingi5@blog.com;(151) 6592415;;;triple;2;$728.97;Rupiah;5,61099E+15;bankcard
+71328e4c-57cd-4210-ab99-7008cec9c682;Clywd;Winterscale;cwinterscalei6@github.io;(561) 9941858;;;triple;2;$101.17;Yuan Renminbi;3,52819E+15;jcb
+4739266e-3432-4515-a58f-1e74787536c4;Ilyssa;Parzis;iparzisi7@shinystat.com;(360) 8909596;;;single;2;$616.82;Peso;5,61068E+15;china-unionpay
+915419bc-a111-4cbe-8135-f396fb1c5ace;Corrie;Habergham;;(182) 2645003;;;single;2;$551.05;Euro;5,60224E+18;china-unionpay
+69a36bc3-9a54-4c78-823b-0bda9064e755;Osbert;Shmyr;oshmyri9@si.edu;;68387-520;;double;1;$43.04;Peso;5,53281E+15;mastercard
+67c0573f-4645-436f-882d-75a91c46390e;Shandeigh;Frill;sfrillia@etsy.com;(792) 2419450;37012-751;;triple;1;$100.55;Euro;3,57349E+15;jcb
+46ca5fca-f103-4d27-aacc-4cf9e0eed2a7;Phaidra;Muddle;pmuddleib@ameblo.jp;(770) 9710724;;;king;1;$348.33;Rupiah;3,60937E+13;diners-club-international
+ac37d4b5-b5b4-4161-83d0-eba1a682bff2;Dorella;Scneider;dscneideric@twitpic.com;(485) 1757386;;;double;2;$392.94;Real;3,74622E+14;americanexpress
+016cdb4d-3418-4852-a45b-07bbfe23b633;Lucine;Geistmann;lgeistmannid@cafepress.com;(995) 4811924;61096-0003;;single;1;$630.74;Yuan Renminbi;3,55629E+15;jcb
+e536d1c6-e9e3-49e4-bfbe-54b783050f67;Charley;Tucker;;(912) 9994014;;;single;2;$688.02;Shilling;5,32017E+15;mastercard
+0008826a-a170-4992-8b8e-308b54c13880;Iris;Gresser;igresserif@prweb.com;(227) 2603583;;;double double;1;$680.18;Euro;6,30425E+17;laser
+2c58a37c-d801-43aa-819c-74764544b886;Fanchette;Phorsby;;(652) 3286804;;;double;3;$659.00;Euro;3,72302E+14;americanexpress
+add4a25e-1823-43f2-bf0a-d97fed1b3401;Donaugh;Commuzzo;;(612) 8220091;;;double;2;$493.82;Zloty;3,57849E+15;jcb
+f1023dc8-5e06-4b17-92f6-e677bd35167d;Freddie;Giacomelli;;(531) 4193636;;;triple;1;$71.35;Yuan Renminbi;3,74283E+14;americanexpress
+4cfa72f4-5acb-4514-8a6e-95e28704ddbe;Rance;Woodford;;(705) 9997510;;;triple;1;$225.61;Real;3,04591E+13;diners-club-carte-blanche
+fd4e0440-59e5-4251-b765-64027f781a9e;Margareta;Daglish;mdaglishik@123-reg.co.uk;(598) 7250851;;;double;3;$438.23;Rand;3,571E+15;jcb
+3e7bb68f-7f2e-45e8-8f8d-31c3d5b0d7a0;Jenny;Watkiss;;(375) 8060366;;;triple;2;$358.06;Euro;4,02679E+15;visa-electron
+63210fdf-305d-4764-a7a3-04998a45719e;Jo;Drinkel;jdrinkelim@topsy.com;(107) 1117983;;;single;1;$511.87;Zloty;3,55731E+15;jcb
+fdf64d00-ce73-4eb4-8de2-dbe304310638;Tremain;Candey;tcandeyin@creativecommons.org;;;;king;3;$501.41;Franc;6,76237E+15;maestro
+54b7616a-ead1-4067-928b-f7268f5656cd;Chane;Iverson;civersonio@seattletimes.com;(203) 9617996;;;double;3;$602.93;Euro;6,76157E+16;maestro
+8f9411bb-3318-45cf-8204-97554d9d1da8;Tabbie;Pilger;tpilgerip@senate.gov;(827) 4871908;;;king;1;$632.85;Zloty;3,58553E+15;jcb
+e7a98862-72f8-4900-b05c-e60224158ffa;Dame;Pountain;;(204) 1865097;;;double;2;$160.19;Rupiah;3,54751E+15;jcb
+6e73d89f-2628-4409-b3ed-22c4f92cf367;Corly;Meadway;cmeadwayir@ucsd.edu;(555) 5936218;;;double;1;$223.91;Zloty;5,41226E+15;mastercard
+8fe8a0e8-84b4-4eea-a3da-ecfd87d8c13b;Sisely;Byham;sbyhamis@imageshack.us;(823) 5613719;;;triple;2;$540.64;Yuan Renminbi;3,53767E+15;jcb
+4edd4113-5451-4ecc-8555-cdcefae32ded;Kirsteni;Tomovic;;(455) 2755037;;;triple;3;$85.59;Euro;4,91375E+15;visa-electron
+687b738f-6d1d-40f8-afd2-b3a47be3e531;Doretta;Bagster;;(777) 3891329;35356-825;;triple;1;$50.44;Rial;3,57666E+15;jcb
+b8fed5e9-7202-4971-bda2-88d4b83b995f;Lonnie;Crosse;lcrosseiv@springer.com;(867) 1932910;;;single;1;$350.36;Yuan Renminbi;4,91183E+18;switch
+a12e9490-cd52-490c-a595-4fddd00ad4c8;Tabor;;tackroydiw@jigsy.com;(216) 3726625;;;double;1;$584.98;Colon;3,5352E+15;jcb
+6803fba9-4982-4223-baaa-6eb50ace2194;Mace;;mhindgeix@mit.edu;(899) 9087235;;;double double;2;$725.89;Shekel;5,60225E+15;bankcard
+50415f37-767c-4253-bad7-fab9465daf73;Catharina;Rubenov;;;;;double;1;$690.23;Franc;3,56922E+15;jcb
+14838abb-28a8-40b1-a51d-81212391754c;Shalom;Bodham;sbodhamiz@google.fr;;;;double double;2;$481.23;Real;6,3736E+15;instapayment
+2e018977-8cb7-4fbf-9a8d-ac6fe427598f;Armando;Saphir;;(680) 5385689;68180-611;;double;3;$688.88;Yuan Renminbi;3,5307E+15;jcb
+4b409c8f-cbd0-4fca-948d-0dd10189ea85;Stesha;Callcott;scallcottj1@cargocollective.com;(821) 6143881;;;double;2;$306.43;Rupiah;5,10018E+15;mastercard
+809febbd-b00c-4ba4-b794-221f96ef3a40;Kat;Renehan;krenehanj2@sciencedirect.com;(757) 1870231;;;single;1;$328.25;Franc;3,56102E+15;jcb
+9557d959-e1c9-4b37-a056-f258c5bc3e4b;Bridgette;Jarman;bjarmanj3@addthis.com;(482) 9491397;;;single;2;$409.58;Kuna;2,01943E+14;diners-club-enroute
+f43cad2d-3cc1-4ea8-87f8-9b36ef81f23f;Nan;Stanion;nstanionj4@mysql.com;;;;double;3;$390.19;Peso;3,55548E+15;jcb
+bd51c83c-9103-4c5a-a942-0e6a2445b5f5;Jessika;Kellar;jkellarj5@ovh.net;(498) 8905647;;;double;3;$598.33;Dollar;5,60224E+15;bankcard
+69f210da-aed0-446b-8b93-b87fcbe4fa91;Merle;Mudie;mmudiej6@independent.co.uk;(954) 1539043;;;double;2;$329.49;Zloty;4,0416E+12;visa
+2bee66be-adb6-4932-b5c2-cc2184b27933;Chane;Fencott;;(731) 2225836;;;double;2;$70.12;Euro;3,01294E+13;diners-club-carte-blanche
+85b920d1-9169-43b3-9dcc-ba998abeda75;Janet;;;(831) 6547684;;;king;1;$414.03;Leu;6,76211E+15;maestro
+9041d493-bf62-4396-891f-ffb2a0746c35;Linnet;Aird;lairdj9@lulu.com;(803) 9076138;;;double;2;$378.23;Peso;3,00279E+13;diners-club-carte-blanche
+9b96a401-d9d9-4ea0-9ea3-419838870d62;Kiley;Akid;;(487) 8900947;;;double;2;$45.75;Hryvnia;6,30433E+18;maestro
+44354927-13be-4a7a-9f9d-1bf993a1584f;Nellie;;nhargessjb@slashdot.org;(546) 7318881;;;triple;2;$520.36;Ringgit;4,84435E+15;visa-electron
+103d22da-ea7b-4d72-a2bb-fbc1cbc645d5;Lianna;;;(716) 3260465;;;king;2;$170.17;Leu;4,91386E+15;visa-electron
+4b6417f4-5468-4aea-820d-d98b4b119db7;Pat;Ivain;pivainjd@dagondesign.com;(121) 2789198;;;double;1;$519.60;Franc;3,56329E+15;jcb
+165affb5-3b20-452a-8e81-da84f2f538a6;Kyrstin;;kdysartje@sakura.ne.jp;(902) 3586093;52533-015;;double;1;$548.80;Ruble;3,57041E+15;jcb
+7e0fe79c-c845-48a9-ac63-194c57239daa;Danice;Sanson;dsansonjf@nyu.edu;(706) 6315922;;4;double;2;$408.40;Yen;6,77127E+18;laser
+86b1a315-9f6e-468a-8d4b-0fbfaaa2661c;Ezechiel;Lefever;;(180) 8556863;;;single;1;$762.80;Ruble;3,58244E+15;jcb
+89ddc87f-ea59-48f7-8d85-b5390f0e52ab;Charles;;cswailejh@free.fr;(166) 4111721;;;triple;2;$749.74;Rand;5,10018E+15;mastercard
+db4bed26-2c99-4a14-ae6b-3ec379358807;Silvain;;;(266) 3884656;;;double;1;$266.91;Baht;3,53213E+15;jcb
+0e3af17e-0a57-4536-8afc-a857b523693d;Ira;Boneham;ibonehamjj@about.com;(435) 6111196;;;single;3;$623.39;Lari;5,01856E+16;maestro
+44f83a47-d5bc-4d6f-b54c-692e7c9f04d8;Marlo;Stinson;mstinsonjk@ocn.ne.jp;;;;single;2;$569.02;Yuan Renminbi;3,5735E+15;jcb
+f93a59c1-c5c0-4fcd-92ed-9d8fcff6d8c6;Hasty;Godard;hgodardjl@bravesites.com;;;;;;;;;
+675664ae-0a96-4739-8529-d8fc11f883d1;Baillie;;;;68016-871;;single;2;$292.13;Dollar;3,55065E+15;jcb
+779e5ffc-51bd-40e9-abec-03bea8a6c68f;Gibbie;Mardling;gmardlingjn@java.com;(139) 3746382;;;double;2;$140.75;Real;3,57365E+15;jcb
+49e8dd84-83c2-4a1f-a789-6fcd6cec56ce;Deeyn;;dknolesjo@naver.com;(569) 2822531;;;triple;1;$211.28;Ruble;4,02696E+15;visa-electron
+fc6d8910-3aa1-4147-9e50-57626a02e2e8;Nolan;Aylin;naylinjp@odnoklassniki.ru;(732) 9880103;;;king;2;$499.32;Ruble;6,3311E+18;switch
+637bf1ee-ad96-434c-9e13-d5e05c9707b4;Gasper;;;(618) 2722475;;;king;2;$719.00;Euro;3,00688E+13;diners-club-carte-blanche
+06e5af46-2f87-4259-a689-1f38cccc3de9;Brigida;Sollon;bsollonjr@businessweek.com;(504) 6516034;54575-324;;double;2;$545.99;Yuan Renminbi;6,76281E+17;maestro
+cfa6c2a8-2e50-4a6e-9ead-acc3a390ff47;Inglis;Lyptratt;ilyptrattjs@unc.edu;(341) 5017293;;;double;3;$301.57;Euro;3,02446E+13;diners-club-carte-blanche
+92ee817f-f5d6-4a77-b813-306c0b63adeb;Wileen;Reaper;wreaperjt@amazonaws.com;(812) 5839239;;;king;2;$397.70;Euro;3,53952E+15;jcb
+eee9a83c-50f4-4f24-82c6-ad7b8e560472;Marianna;Cromley;mcromleyju@posterous.com;(663) 1252718;16714-601;;double;3;$224.17;Euro;3,72301E+14;americanexpress
+461ab020-3e4f-43cc-8da7-81d64cf21a39;Baudoin;;bquinceyjv@usnews.com;(354) 6251439;;;triple;1;$484.65;Dollar;6,33111E+18;switch
+4bd46ce8-43d7-4f0a-8818-6bb294b425ee;Katerina;Camamill;;(718) 7464108;15127-891;;;;;;;
+9f79cbb2-4cc2-4d3e-ab7a-1b6aa57e0aad;Noble;Daoust;ndaoustjx@cbslocal.com;;;;king;1;$517.08;Euro;3,57065E+15;jcb
+13dce508-efbe-42ae-8a63-dd39d80f595f;Niven;Pacher;;(476) 6960565;;;double;2;$215.89;Krona;6,39801E+15;instapayment
+7f7b12b1-f594-489c-b381-022b4da17455;Ronny;McConnell;rmcconnelljz@discuz.net;(409) 9697814;;;double;3;$589.73;Pula;3,00675E+13;diners-club-carte-blanche
+cdc6a15f-da6c-491d-80a3-e523a3aafc2e;Hamel;Cavey;hcaveyk0@discovery.com;(468) 2285272;;;double;1;$505.22;Real;3,58277E+15;jcb
+6278460e-8a3c-4fdd-b97b-913a5d738da1;Marietta;;;(585) 8380680;;;double double;2;$412.32;Dollar;3,55251E+15;jcb
+0aca323d-c5b6-4a8b-8f40-e5bc319c266f;Janelle;Macy;jmacyk2@walmart.com;(138) 4882653;;;triple;1;$429.52;Yuan Renminbi;5,51353E+15;mastercard
+25182837-242a-4f95-afe5-b241b6890c27;Kitti;Croot;kcrootk3@reference.com;(843) 9530430;;;double;3;$617.72;Dollar;6,75917E+15;switch
+d72f5330-cfe9-4515-bb95-e4d7abefff09;Dunn;Pleaden;;(445) 3808229;;;single;3;$319.03;Euro;3,57688E+15;jcb
+826a7c46-67cf-4e55-bf17-3f94650ceef6;Helen;Luttgert;hluttgertk5@desdev.cn;(660) 8217140;;;single;3;$271.31;Cedi;6,33432E+15;solo
+d11980e8-88cd-4b0e-8047-c8f7442add13;Carissa;Briggdale;cbriggdalek6@phpbb.com;(502) 9995856;;;single;3;$602.80;Krona;5,10876E+15;mastercard
+f6b0dcb5-f3cb-4d79-99c6-3f035319ee35;Isadore;Rennicks;;(368) 1347092;;;double;3;$504.02;Euro;4,50828E+15;visa-electron
+2793328a-2fe0-4864-8167-2bfa6d96ee0b;Nathaniel;Crowthe;ncrowthek8@state.gov;;0280-1146;;single;2;$741.64;Peso;4,04159E+15;visa
+745ec29d-f2d8-489d-b4d5-206d222c6375;Tierney;Strathman;;(415) 3312836;;;triple;1;$214.27;Ruble;3,56854E+15;jcb
+cdab1b2c-6410-4f8e-ada3-c8fb34919153;Clyde;Jamary;cjamaryka@liveinternet.ru;(365) 2168946;;;single;3;$662.32;Ruble;3,56602E+15;jcb
+ca3c541a-a1fe-4f27-be2c-2bcdb9581448;Dall;Espinazo;despinazokb@youtube.com;(189) 5179754;;;single;1;$434.13;Euro;5,0389E+18;maestro
+2f57588d-0051-4809-8abe-eafc48067bc1;Ivy;Cuttelar;icuttelarkc@foxnews.com;(250) 3812882;;;triple;2;$704.26;Balboa;6,3311E+15;switch
+fd90423b-12d6-48a5-beca-5b6c64efddd8;Haley;McCloughlin;;(798) 7079654;;;king;2;$608.28;Zloty;5,10015E+15;mastercard
+05ddf711-9bb9-446a-8fa6-05e867756568;Ikey;Scatchar;;(750) 4469560;;;single;3;$685.33;Real;5,60223E+16;china-unionpay
+12c4eba1-383b-4959-863c-d6f72d308a65;Viviyan;Mingasson;vmingassonkf@cafepress.com;;;;single;3;$344.60;Krone;3,54767E+15;jcb
+255c315e-a29b-4f7b-b466-54d48e0b51cc;Rodger;McTrustam;rmctrustamkg@oakley.com;(740) 7241551;;;single;2;$286.96;Yuan Renminbi;5,36399E+15;mastercard
+33b6bc04-1e30-48af-b99e-bb5bdbf006cb;Jayme;;jcheesemankh@gov.uk;;;;king;2;$43.68;Real;3,55492E+15;jcb
+9523f9d5-18fc-496d-95e3-b5068a4b8c0d;Gloriane;Stidworthy;;(865) 6749078;;;triple;2;$212.55;Euro;5,52554E+15;diners-club-us-ca
+46c534ef-c61c-4e0b-8f42-cee4530ecdd9;Alejandrina;Sullivan;;(470) 3198240;;;double;1;$194.11;Zloty;3,7602E+14;americanexpress
+3735f436-79bc-46e9-8636-57785e3123bb;Kippar;Kennifeck;kkennifeckkk@telegraph.co.uk;(154) 1251015;;;double;1;$335.32;Hryvnia;3,54647E+15;jcb
+f8de72f5-f1ac-45b5-b9d8-31a347b7453d;Marysa;Ramalho;;(174) 8843799;;;single;3;$141.27;Peso;5,60225E+15;bankcard
+2d9492db-b7bb-4896-b0e0-b74e2c9728e1;Prinz;Sinnock;psinnockkm@google.ru;;;;triple;1;$571.05;Ringgit;3,77798E+14;americanexpress
+3b6c6e75-c1b2-4d11-aeff-b10ae45fcd12;Reeva;Shakespeare;rshakespearekn@google.de;(839) 9828114;;;double;1;$172.14;Dollar;6,7672E+15;solo
+b113dad9-e505-44d7-a875-ec5170f5b864;Eli;Winks;;;;;single;3;$539.23;Euro;6,39876E+15;instapayment
+054adfe2-e893-4968-956d-2bdd758db189;Yancy;;ynobeskp@auda.org.au;(719) 3630471;;;triple;2;$610.62;Euro;3,53826E+15;jcb
+4b9f934c-4d93-49a9-94ea-78d5a7014118;Noble;Avrahamoff;navrahamoffkq@bravesites.com;(392) 2045864;;;single;2;$564.79;Denar;4,90546E+17;switch
+4fc4b006-28ab-407f-a638-c4c465a4d432;Dukey;;;(958) 8263090;;;double;1;$122.65;Euro;3,56434E+15;jcb
+e18ecc3c-8026-4fa1-ba89-db7f118a4689;Brantley;Dyet;;(293) 1711118;;;king;1;$232.99;Rupiah;5,10015E+15;mastercard
+a1c29cbf-252f-4187-8bcd-c76b8c478ea0;Crystie;Burdikin;cburdikinkt@ca.gov;(533) 1687258;;;double;2;$510.68;Ruble;5,61009E+15;china-unionpay
+39e7f28b-f237-41a8-b85a-cf4e0d4cdfe4;Brier;Tapp;;(150) 1143938;;;single;2;$115.08;Rupiah;5,10875E+15;mastercard
+f0c454a1-0432-4dea-b348-e1e385278d06;Pepillo;Merali;pmeralikv@meetup.com;(954) 5578773;;;single;3;$329.43;Yuan Renminbi;6,38959E+15;instapayment
+48d44e28-39be-48f0-9201-aa573bd2dd52;Ardeen;;arigneykw@chronoengine.com;(238) 6786544;;;single;3;$390.36;Euro;3,56298E+15;jcb
+bf3d89c7-53c2-4d3d-9879-38d0358bfc4c;Arthur;Bottle;abottlekx@mac.com;(538) 6174522;;;single;1;$248.35;Rupiah;6,33378E+15;switch
+bbbf7d30-3285-41c7-84c4-9115899ce226;Lorinda;;ltemplemanky@edublogs.org;(475) 3151443;;;triple;2;$278.01;Euro;3,56162E+15;jcb
+09a18adf-c08e-46f6-8e42-ab0e043c0179;Biron;;;(169) 9548954;;;double;3;$464.30;Quetzal;3,53669E+15;jcb
+6d054eaa-c293-4866-8323-e9f2452f0bb8;Addie;Guerrazzi;aguerrazzil0@shinystat.com;(617) 1052437;;;single;2;$166.95;Krona;5,60223E+18;china-unionpay
+05d7c30a-92fe-4d96-93ca-f95998ca8818;Cristen;;ctorrel1@pagesperso-orange.fr;(177) 8842922;0228-3087;;single;2;$394.08;Yuan Renminbi;2,0172E+14;diners-club-enroute
+932b6576-5f2e-4846-a796-2d516bb5ac98;Domini;Dumelow;ddumelowl2@amazonaws.com;;;;triple;2;$260.63;Krona;4,02605E+15;visa-electron
+c26d6e66-24f8-4d6d-b4aa-2ab68f6d16ab;Rhona;McVee;;(231) 9225687;;;triple;1;$535.59;Yuan Renminbi;3,57675E+15;jcb
+d3b96894-7e5e-4139-9d05-1edee158f77f;Jemie;Graveson;jgravesonl4@rakuten.co.jp;;;;single;2;$174.07;Won;3,583E+15;jcb
+bff3a9c0-ff1b-4b47-aa63-3fcb0c0e61aa;Ruperto;;rgomeryl5@ucoz.ru;(808) 9514875;;;single;1;$92.39;Peso;6,30431E+17;maestro
+79428971-0f98-41b4-9d14-66090c431d2e;Aylmer;;;(511) 6444440;;;triple;3;$170.70;Ruble;5,01012E+15;mastercard
+2c95ae5c-55d8-4571-89d0-15f952bd24c8;Elianore;Frodsam;efrodsaml7@google.com.au;(542) 7764081;;;triple;3;$758.15;Yuan Renminbi;2,01411E+14;diners-club-enroute
+cafa2b25-e8bf-462c-9b3b-0b8ca05b41e5;Wyndham;Arnason;warnasonl8@who.int;(428) 6770418;16590-299;;double;3;$724.97;Peso;4,50864E+15;visa-electron
+3603886c-810f-4937-b060-6c6bd117185f;Jessika;Hopkins;jhopkinsl9@ameblo.jp;(307) 2806409;;;double double;1;$48.49;Yuan Renminbi;3,56412E+15;jcb
+71b58922-f3b7-4642-94ec-be8fb24fc8a4;Duff;Sifflett;dsifflettla@1und1.de;(630) 9575135;;;double;1;$126.48;Peso;5,04838E+15;mastercard
+46e3bc9b-4d75-4c00-9822-e388c904b832;Carmine;Minchell;cminchelllb@home.pl;(687) 3529695;;;single;2;$633.09;Peso;2,0182E+14;diners-club-enroute
+a9548844-3a0d-4db9-970f-34dcece8f111;Nanine;Etock;netocklc@stumbleupon.com;(652) 5388692;;;double;2;$454.43;Pound;4,17501E+15;visa-electron
+33c029d8-7f35-4b94-966f-3ff6462df3c3;Allayne;OIlier;;(683) 6054135;;;single;3;$417.69;Euro;4,026E+15;visa-electron
+b3e5ec3b-f847-4930-a480-96df2f3a2375;Editha;Firby;efirbyle@sakura.ne.jp;(882) 1765713;;;single;2;$528.74;Rupiah;2,01965E+14;diners-club-enroute
+23f8094c-204d-43ce-a167-7b04b520e8e3;Inna;Malkinson;imalkinsonlf@loc.gov;(402) 5720855;;;double;2;$641.34;Rupiah;2,01964E+14;diners-club-enroute
+c32efe9f-420f-488e-80bd-d7c734f88c15;Marline;Burbidge;mburbidgelg@dagondesign.com;(401) 8324331;;;double;2;$208.79;Marka;3,56572E+15;jcb
+31e1f19d-0ff1-44cf-9200-9f05e9d6c173;Brigit;Kier;bkierlh@sphinn.com;(448) 9638755;;;double double;2;$384.33;Rupiah;4,04138E+12;visa
+65f1476c-6b8f-4c37-b09c-2fbc0f499636;Peadar;Feldstein;;(490) 1804974;;;single;2;$672.11;Yuan Renminbi;5,10014E+15;mastercard
+5569828e-0fc3-49e3-b2e1-ad5b049917ab;Nevile;;nschwandermannlj@cpanel.net;(477) 3343413;;;double;2;$95.91;Zloty;3,55335E+15;jcb
+b0cd5309-c678-4460-a423-c2219fbbce4a;Fancy;Grancher;fgrancherlk@samsung.com;(763) 9252459;;;triple;2;$596.07;Yuan Renminbi;5,53621E+15;diners-club-us-ca
+c29192e1-d20b-44a7-be0f-8ffcfed563ad;Dimitri;;dpiscopelloll@phoca.cz;(595) 6276279;;;double double;3;$278.18;Euro;3,54024E+15;jcb
+997e5715-6ba1-405d-9e4b-fee193f7c08c;Raye;Koeppe;rkoeppelm@uiuc.edu;;17478-719;;triple;2;$414.41;Zloty;3,53E+15;jcb
+d675daff-c423-4d39-b153-d496e677e363;Akim;;aarchardln@cornell.edu;;;;king;1;$734.02;Sol;3,534E+15;jcb
+666174ad-23eb-44b1-bb39-61542d3f3ba5;Skylar;Stopford;sstopfordlo@apache.org;(130) 3827753;;;single;3;$509.70;Rial;5,60225E+17;china-unionpay
+49bc21da-9610-45a9-add2-5a439eb498bc;Northrup;Butchers;nbutcherslp@google.ca;(197) 6068628;;;triple;3;$758.98;Yuan Renminbi;5,02089E+16;maestro
+b8cd86ae-0728-4926-ae09-1388533469eb;Regan;Errigo;rerrigolq@godaddy.com;(283) 9907924;64764-335;;triple;3;$557.13;Yuan Renminbi;6,33451E+18;solo
+34101248-4bd0-40d7-aa0e-83e0e92e64af;Silas;Carnew;scarnewlr@prlog.org;(892) 7770756;;;triple;2;$483.85;Zloty;3,58036E+15;jcb
+ad6f63c2-8cae-4290-beea-5ad6e2107259;Lyn;;lfoulcherls@npr.org;(894) 1821616;;;double;3;$93.98;Euro;3,56819E+15;jcb
+ec7a2463-de20-45a6-9e38-0cd5c0264b57;Robinette;;rbrodneckelt@studiopress.com;(109) 7426511;11523-7356;;triple;3;$380.54;Yuan Renminbi;5,16313E+15;mastercard
+c5c00361-810f-4aa1-ab3b-0c734a107b28;Mair;Gerrit;;(387) 5335259;;;double;2;$241.86;Rupiah;5,03882E+16;maestro
+26e7a334-1001-461e-9661-fbd22a3a691f;Trueman;Measor;tmeasorlv@ox.ac.uk;(560) 2999621;;;double;1;$318.56;Peso;3,58316E+15;jcb
+92d95d1d-812b-410b-b751-b90804737db1;Dinnie;;dbecksonlw@cloudflare.com;;;;triple;2;$206.89;Yuan Renminbi;4,91173E+17;switch
+d25bc591-767c-478b-be85-95f1051ff91b;Alisa;Helversen;ahelversenlx@un.org;(714) 6720873;;;double;1;$99.58;Peso;3,55418E+15;jcb
+b5db64be-9cce-430a-abc5-7067e5afb729;Coop;Eddoes;ceddoesly@yelp.com;(481) 5258510;;;triple;1;$251.83;Naira;5,54736E+15;mastercard
+22517f7b-adac-4886-98d2-bb2e7d46c98f;Theresina;Mountney;tmountneylz@etsy.com;;;;double;3;$454.98;Krone;4,84437E+15;visa-electron
+61032e72-7f6f-40ea-a19e-ab79c85ee2a6;Abbot;Fairpo;afairpom0@economist.com;;;;double;1;$480.61;Peso;5,03892E+16;maestro
+2148375c-5543-49d9-967c-7dbc02ed48b8;Jorey;Limb;jlimbm1@goo.gl;(289) 1779642;;;single;3;$239.09;Dirham;3,57265E+15;jcb
+e11a7ab6-151a-4a20-84ed-4460015dbb35;Luise;Stellino;;(539) 8720513;;;single;3;$143.69;Peso;6,75916E+18;switch
+e54685ae-a37e-417c-a4e2-2d8db87990c8;Osmond;MacHarg;;(389) 5306221;;;king;1;$609.13;Krone;3,56714E+15;jcb
+186be8c1-a455-49b9-ad73-ffdde0bb1614;Dagmar;Bewshaw;dbewshawm4@who.int;(267) 1828474;;;double;1;$205.91;Rupiah;5,10875E+15;mastercard
+fc45d326-aece-4f2c-882b-0762d2775ff8;Orelle;Vinau;ovinaum5@mapy.cz;(883) 1626650;;;single;3;$64.45;Yuan Renminbi;3,53179E+15;jcb
+d2dd7f56-78a9-42f5-98e1-5d8192cc1a2b;Elena;Shrubsall;eshrubsallm6@nydailynews.com;;;;double;1;$487.11;Naira;4,91318E+15;visa-electron
+5dbfa97c-ec40-46ee-b2d0-f288625d662d;Lucilia;McCloughlin;lmccloughlinm7@dot.gov;(115) 4334966;;;king;2;$733.93;Pound;5,60225E+15;china-unionpay
+293dd8fc-87f0-4058-9d8b-e3c801aac554;Allen;Markel;amarkelm8@patch.com;(117) 5182426;55312-094;;double;2;$431.71;Pound;3,55246E+15;jcb
+3bbb129e-e678-4185-bcb0-dd4e2de668cb;Carmine;;cjozefm9@xrea.com;;;;single;3;$130.11;Yuan Renminbi;3,05325E+13;diners-club-carte-blanche
+975a1b9c-dbca-4887-beff-f0aa5be5b26c;Kelsi;Paaso;kpaasoma@vistaprint.com;(840) 4469264;49527-734;;king;3;$610.66;Euro;6,75965E+18;maestro
+0c92b5c6-f7fb-4f3d-a940-df6b763d807a;Lusa;Ferrolli;lferrollimb@google.de;(849) 5048276;;;king;2;$729.00;Yuan Renminbi;3,54947E+15;jcb
+f66b26d8-f75f-4612-a93c-12f58f4e71c1;Rodrigo;Payle;;;;;double double;2;$266.49;Yuan Renminbi;3,53987E+15;jcb
+5d582386-0820-419e-8548-b9f5f7f2c591;Cynde;Washington;;(182) 9509274;51141-0002;;single;2;$51.41;Yuan Renminbi;6,37883E+15;instapayment
+08555f4f-4cd6-4ed3-aa95-d34b928897d3;Thea;;tquantrellme@npr.org;(901) 6726647;;;king;3;$637.70;Franc;6,70638E+17;laser
+1d021b48-d8b9-44ed-9508-bf518595a3d7;Jerry;Oseman;josemanmf@prlog.org;(743) 9800737;;;triple;1;$92.57;Yuan Renminbi;3,53477E+15;jcb
+2507985d-b253-4876-a3c6-1581ba61bade;Corabelle;Benediktsson;;(294) 4041497;36987-3256;;double;1;$235.58;Dram;3,53337E+15;jcb
+48ac02df-5448-47d2-8148-3163d24e30d9;Redd;;;(908) 9404909;;;double;1;$405.61;Rial;6,70904E+18;laser
+4be1e8d0-32ac-486f-bfa1-6d0e7e6ad278;Harlan;Cokly;hcoklymi@nhs.uk;(425) 2047997;;;triple;1;$353.35;Rupiah;3,58982E+15;jcb
+cd127831-650a-4647-bdf7-bec018576b83;Stephen;;;(542) 7582242;;;single;2;$762.77;Ruble;5,89381E+15;maestro
+f665b046-a1ac-48e9-914b-853b37c89d93;Uta;Massei;;(250) 2937642;;;single;3;$285.67;Yuan Renminbi;4,02657E+15;visa-electron
+e30d3519-a4b1-4ef0-a400-ede3178a246f;Vally;Dunham;;(953) 5050103;;;single;3;$196.12;Real;3,56135E+15;jcb
+f245556c-8e02-4bfd-a5c9-ed27636c4786;Zachery;Dictus;zdictusmm@paginegialle.it;(882) 2797217;;;double;3;$627.53;Krona;5,60221E+15;bankcard
+6779c3b4-c740-4e16-9978-85dc89a2a0ac;Vachel;Maliphant;vmaliphantmn@yandex.ru;(429) 7908614;;;triple;1;$425.06;Baht;6,04657E+14;maestro
+26001376-7d47-48e6-84d2-82c2e5537752;Josee;Bysouth;;(168) 8361383;;;double;3;$717.97;Sol;3,57987E+15;jcb
+1593dd27-4633-43ce-ae28-88dd9d6923bf;Christiana;Grzegorek;cgrzegorekmp@house.gov;(621) 4810710;;;single;3;$471.75;Rupiah;3,55629E+15;jcb
+8714511f-3fce-421a-9898-fb075b4e3c70;Roseann;Binstead;rbinsteadmq@list-manage.com;(306) 3161346;;;double;2;$350.02;Rupee;3,58553E+15;jcb
+f5d23b0b-4dcd-4119-8b67-a370977ee6dc;Jasen;Tuther;jtuthermr@java.com;(246) 8838013;;;triple;3;$445.56;Lempira;6,37056E+15;instapayment
+7b2f6147-a962-4cf5-9447-5ee85d2f4af9;Kimball;McDarmid;kmcdarmidms@google.pl;(550) 1135677;;;double;1;$517.68;Yuan Renminbi;3,05564E+13;diners-club-carte-blanche
+707eb70b-a18b-4163-8f92-4779ba930349;Cooper;McIan;;;;;single;1;$269.24;Rupiah;3,52871E+15;jcb
+294f2e20-be1f-4b21-bdac-eea4bef443e4;Isidor;Dearth;idearthmu@github.io;(779) 9071016;;;triple;1;$473.39;Lev;3,00359E+13;diners-club-carte-blanche
+9f040e2c-495f-4fc8-8cb0-c6f6a874f1a4;Garald;Astie;;(831) 7219082;;;single;1;$324.06;Colon;3,58662E+15;jcb
+b5e78545-1f40-44cc-a7de-9981586c2a9f;Idell;Bagby;ibagbymw@google.com.au;(691) 1765536;;;single;1;$301.77;Euro;3,57284E+15;jcb
+f6d4187e-4d34-4c61-b760-3171c6c5585e;Uri;MacSharry;umacsharrymx@plala.or.jp;(687) 2996522;;;triple;1;$475.23;Real;3,55869E+15;jcb
+971d8246-6889-4d71-a1c9-de00891aeb60;Merill;Ossulton;mossultonmy@webs.com;(979) 7557234;;;double;1;$563.39;Peso;4,40525E+15;visa-electron
+ce11a6ba-51d3-4b1e-ab68-3a858dac2bd9;Ricki;Dunnan;rdunnanmz@cnet.com;;;;double double;1;$288.51;Euro;4,175E+15;visa-electron
+c55eeed5-1c1a-45f5-b3bc-93203772c0c7;Bartlet;Ronchka;;(288) 8044337;0904-7889;;triple;1;$327.21;Colon;2,01587E+14;diners-club-enroute
+d17da02f-7e28-4dce-a6ad-9e46c86d1760;Valida;Gaskall;vgaskalln1@japanpost.jp;(993) 6850282;;;single;2;$452.38;Euro;3,05458E+13;diners-club-carte-blanche
+65360c4f-fc3c-480e-ac8b-b590490c2890;Elvera;Rankmore;erankmoren2@zdnet.com;;;;king;3;$229.99;Yuan Renminbi;3,57421E+15;jcb
+92e6ca7d-1bc7-437e-835c-64eca25d4eb8;Anetta;Kelcher;;(272) 3760040;;;double;2;$146.55;Euro;5,60225E+15;china-unionpay
+ca5abf4e-085c-4cb2-b954-d9961c74d92b;Warde;Ghion;wghionn4@nationalgeographic.com;(318) 6985202;;;double;1;$333.57;Peso;6,38862E+15;instapayment
+18a177fe-4946-4ec3-886e-950e9c333293;Neill;Gascone;ngasconen5@sina.com.cn;(524) 3018090;;;double;3;$704.54;Baht;5,04838E+15;mastercard
+1d8a2e79-1007-4270-9192-c547d3dbed34;Anneliese;Blazewski;;(853) 3978210;;;triple;2;$388.21;Rupiah;6,3311E+17;switch
+4f784789-fdcb-4cce-9c07-395ecac75de6;Enos;Joselson;ejoselsonn7@geocities.jp;(763) 5576734;;;triple;1;$46.24;Dong;3,58757E+15;jcb
+552fd500-0639-49cd-a83a-ea7e3887cf19;Hy;Nicol;hnicoln8@clickbank.net;(599) 1320861;;;double;2;$112.41;Dollar;5,61037E+15;bankcard
+cb95676d-00bc-42dd-8d0c-b822c7c7642f;Arin;Harrod;aharrodn9@indiegogo.com;(504) 6344883;;;single;1;$446.58;Real;3,5862E+15;jcb
+b9d9b33d-6e50-435f-8bf9-ee7edb3d20aa;Correna;;cpatterfieldna@artisteer.com;(209) 3488185;;;triple;3;$691.92;Dollar;5,89333E+15;maestro
+0e570462-1e71-416a-9508-c4d0c3c1fcb7;Ellene;;;(423) 1392293;;;double;3;$684.34;Yuan Renminbi;5,60224E+15;bankcard
+15bbe2db-0691-4211-a6de-70def7c2833f;Cathe;Kinnerley;ckinnerleync@ucsd.edu;(523) 7425037;;;single;2;$59.01;Dollar;3,58248E+15;jcb
+7fbe5472-c9df-42c4-83cb-5bcc1e7a5b69;Alain;McKeady;;(613) 8675168;;;king;1;$651.29;Rupiah;3,5373E+15;jcb
+0b9d9f1c-251d-43db-b147-47019f297f84;Waldo;Patching;;(909) 8579093;;;triple;3;$722.74;Peso;4,40597E+15;visa-electron
+105fc164-eb81-4f19-b66a-e887db8f6ab1;Michal;Aspland;masplandnf@nature.com;(924) 8342036;;;single;2;$664.75;Yuan Renminbi;3,53755E+15;jcb
+fddb98d0-b659-468b-9329-500cf66609ae;Gracia;Wallbank;gwallbankng@ibm.com;(108) 8463661;52125-541;;double;1;$565.10;Rupiah;6,33325E+17;switch
+640ea20a-002d-45ed-8f3d-060cb60538c8;Shurlock;Viscovi;sviscovinh@miibeian.gov.cn;(561) 1207059;;;double;2;$172.66;Tenge;3,55449E+15;jcb
+0c080232-eca8-4fa5-bff9-e22bb050acc7;Cristabel;Teresse;;(244) 9577315;;;double;2;$751.00;Peso;5,51905E+15;diners-club-us-ca
+a73feb13-fc73-4c6c-9df6-a0e3a52f63be;Quinton;;qplummnj@boston.com;(734) 2955692;;;single;3;$167.31;Dollar;3,54151E+15;jcb
+c31c3705-4a29-4611-ac8e-d85690a884ef;Rawley;Lackington;;(657) 2040395;;;king;1;$588.74;Yuan Renminbi;3,52809E+15;jcb
+aef952b1-e56e-48cc-982d-5e8ea7c120d4;Ragnar;Tullett;;(922) 4298163;;;single;2;$431.98;Euro;3,55916E+15;jcb
+930e4658-3a83-43d0-b53b-6028fc4e90b9;Stevy;;;;;;double;2;$702.58;Yuan Renminbi;3,37941E+14;americanexpress
+f135cab5-8934-4c16-8bf4-a5be20dabcb2;Tabbatha;;tklempkenn@un.org;(726) 4401843;;;single;3;$341.75;Yuan Renminbi;6,37275E+15;instapayment
+f797e182-fd8d-4014-819c-eed558b13cef;Alfred;McDuff;;(654) 3842290;;;single;1;$319.46;Yuan Renminbi;5,61042E+15;bankcard
+f75b9aeb-c440-42e2-8b4f-5fe4efb38152;Selig;Woollacott;swoollacottnp@pcworld.com;(975) 3584724;52125-514;;triple;3;$410.91;Baht;6,7063E+17;laser
+9dd49bb8-bd41-4257-98f6-a8385f9e04d7;Matilde;Trymme;mtrymmenq@ihg.com;(556) 4070394;;;single;2;$115.68;Rupee;3,56699E+15;jcb
+a5ba921d-2ca5-43cf-902f-4aabf7d0ab11;Cristobal;Truse;;(189) 5225445;;;single;1;$499.94;Rupiah;6,39554E+15;instapayment
+c3d2ded0-8cbd-4994-85a9-9320b9deb95b;Jsandye;;jbransdenns@cbslocal.com;(910) 7241178;0268-6230;;king;1;$415.16;Pound;6,30402E+16;laser
+3563b733-3fcd-4fae-8284-9ffbe26c2dd9;Hobey;Woodfield;hwoodfieldnt@blogs.com;;;;single;2;$401.49;Euro;3,55778E+15;jcb
+fa03a882-8275-40e5-9bdf-e6657195e2c7;Boris;Haversum;bhaversumnu@prnewswire.com;(229) 6634240;;;single;2;$527.96;Won;3,57312E+15;jcb
+2028859c-8caa-4482-8579-47374ec34c74;Ruthie;Dudhill;;(530) 1172750;;;double;2;$309.75;Euro;3,56022E+15;jcb
+3c8e666f-487a-4fc0-8485-b2b748c30877;Sol;Gheeraert;sgheeraertnw@princeton.edu;(449) 1975563;;;double;2;$409.56;Rand;3,74623E+14;americanexpress
+1d125863-39b2-47d6-a6ed-c3bd38d107e2;Noll;Shrimpling;nshrimplingnx@intel.com;(392) 8907257;;;double;3;$317.72;Kwacha;3,54777E+15;jcb
+e7619f9a-1645-4f10-b439-4d7de448fa4a;Eveline;Vairow;evairowny@so-net.ne.jp;;;;;;;;;
+d561c629-744d-4edf-aeee-87387c5736f4;Ignazio;Fullegar;ifullegarnz@acquirethisname.com;(210) 4873347;;;single;3;$343.59;Dollar;5,35289E+15;mastercard
+bb5e42fc-e0e1-4343-bc0f-584dfc5649aa;Patricia;Strewther;;(380) 1970913;;;double;3;$171.20;Ruble;4,9368E+18;switch
+ced55cc3-750e-4bc8-87f8-d450b9f21f6d;Auroora;Hemstead;ahemsteado1@nbcnews.com;(221) 3152231;;;triple;2;$656.80;Shekel;3,01717E+13;diners-club-carte-blanche
+a7c5c4eb-574a-4b1c-b1ea-e1df49b25747;Darbie;Clemmow;dclemmowo2@linkedin.com;(452) 4186236;;;double;3;$490.14;Zloty;5,60221E+15;bankcard
+907cd043-9686-4960-b869-06a314546fd7;Rhodia;Thickens;;(298) 6579859;;;triple;2;$624.55;Yen;3,57306E+15;jcb
+c5a58bd4-cb52-42b3-9f65-2fe2c82e4e51;Herta;Mennithorp;;(449) 8994748;;;double;3;$520.77;Zloty;4,46063E+15;visa
+d3a24d5d-4369-4475-a12a-e2477743d02e;Nicolina;Dutnall;ndutnallo5@yelp.com;(868) 4787594;;;double;2;$57.94;Yuan Renminbi;3,58375E+15;jcb
+c502815d-3f76-4a4f-b983-3f5e17a38322;Griswold;;graggitto6@earthlink.net;(671) 3403303;;;double;3;$743.45;Peso;5,33078E+15;mastercard
+3e04f520-ee1e-444d-8d50-cfdb77f37c70;Karry;Gerson;kgersono7@scribd.com;(748) 3393828;;;triple;3;$245.88;Koruna;6,77186E+15;laser
+755e269d-3958-4984-9f8d-7f4fc5389109;Erda;Paule;epauleo8@bbc.co.uk;(910) 3954506;;;double;2;$676.74;Dollar;4,01795E+15;visa
+36188817-47b2-47d9-a2c0-73ca1c3e6f8e;Sarah;Hefner;shefnero9@blogtalkradio.com;(209) 4766218;0179-8317;;double;3;$431.08;Euro;4,93632E+17;switch
+769048e1-07f5-4f35-81a3-ecf0285af98c;Patsy;Mundle;pmundleoa@uiuc.edu;(544) 6829028;;;single;2;$364.61;Yuan Renminbi;3,55633E+15;jcb
+19ee3f01-0bd7-4e5f-ac7e-9e77d14770da;Kellia;Jambrozek;kjambrozekob@odnoklassniki.ru;(919) 9002779;58232-0410;;triple;3;$291.58;Zloty;5,60225E+15;bankcard
+e1adcd9e-960e-4f7d-b39a-0a0e0488bf67;Siffre;Oneil;soneiloc@last.fm;(555) 1394671;;;single;2;$60.69;Dirham;6,76324E+18;maestro
+8a2029f9-9ac7-4db0-86bf-2b450fdb5054;Ciel;McMeeking;cmcmeekingod@buzzfeed.com;;;;double;2;$158.98;Baht;3,5556E+15;jcb
+1cc71216-9288-4c84-96c2-ce0e90306e86;Zahara;;;;;;triple;1;$725.92;Shilling;4,02667E+15;visa-electron
+80da60a2-dd2a-475a-9179-c46a19ee5982;Thaine;Pinnegar;tpinnegarof@cnn.com;(274) 1762291;;;double;2;$657.66;Ruble;2,01459E+14;diners-club-enroute
+0236213c-697e-4a93-ac6f-8057b30e5a7c;Pip;;pspyvyeog@networkadvertising.org;(896) 7269713;;;single;2;$665.47;Yuan Renminbi;3,0291E+13;diners-club-carte-blanche
+4bb6f4a5-c172-4c65-a176-391d0702ba0c;Ariella;Gostage;agostageoh@wired.com;(691) 9630275;;;single;1;$541.04;Ruble;3,74289E+14;americanexpress
+929607fc-7db5-4925-a7a3-f7c66bcd02a6;Wolfy;Castrillo;;(833) 9349355;;;single;1;$606.84;Yuan Renminbi;3,0231E+13;diners-club-carte-blanche
+0d7454e8-e60b-4197-9fe8-c3359c0f71c2;Arni;Jewer;;(374) 5440805;;;double;1;$235.14;Ringgit;4,02617E+15;visa-electron
+4062a393-3304-4305-ba56-325f451b9ddb;Essie;Howen;ehowenok@e-recht24.de;(522) 7656501;;;single;2;$205.86;Kyat;3,56303E+15;jcb
+ca0d94a9-9bcd-4435-a553-bc730369de08;Jone;;jbrinicombeol@purevolume.com;(364) 2587438;;;;;;;;
+e5981d09-e26f-4bb2-8918-838574644d53;Ricki;Croote;rcrooteom@hp.com;(596) 9793867;;;double;2;$339.71;Yuan Renminbi;6,70625E+18;laser
+1d6e08d4-d6e3-4040-988d-3606a82bd1c6;Caresa;Gutman;;(909) 2407187;;;triple;3;$716.33;Dollar;5,10015E+15;mastercard
+ff1a2c8d-2628-48cc-bf8d-1dffec1aa989;Lefty;Seyler;lseyleroo@kickstarter.com;;;;triple;2;$715.52;Ruble;4,90311E+15;switch
+16867b57-0ce1-4a13-accd-75d2ca1cd8eb;Greer;;gdinesenop@ihg.com;(436) 9031080;;;double;2;$645.58;Yuan Renminbi;3,54164E+15;jcb
+401dc2a3-0f8f-4595-a4c5-208b0400485e;Gina;Lambrick;glambrickoq@nymag.com;(681) 2670597;;;single;1;$117.74;Dong;5,5174E+15;diners-club-us-ca
+a750f716-fe97-4d91-9e69-d81e5db850ed;Arabele;Dedam;adedamor@elegantthemes.com;;;;triple;3;$103.70;Rupiah;3,53669E+15;jcb
+b4f2ae79-5628-45fa-8f38-759711cb85b2;Valenka;;vbeasantos@imgur.com;;;;single;2;$232.94;Peso;3,582E+15;jcb
+04ce45f6-ff8e-4289-9b81-9414dda4607b;Phaedra;Langhorne;;(594) 1358660;42507-393;;double;3;$416.15;Yuan Renminbi;3,74283E+14;americanexpress
+2208b106-9097-416b-bd37-23e73ab0ab36;Edmund;;epoacherou@google.ru;(910) 4771164;;;triple;1;$115.16;Yuan Renminbi;6,76748E+17;solo
+1a8c8942-7b8a-482e-94b9-8810a9ec1055;Philippa;Masham;pmashamov@thetimes.co.uk;(437) 9029440;;;single;1;$411.69;Sol;3,74284E+14;americanexpress
+f338f683-2406-46a4-8819-e9b16a041034;Thorpe;Forward;tforwardow@ebay.com;(941) 8289786;;;single;2;$129.73;Euro;3,56818E+15;jcb
+70e8fad2-7718-492d-b795-97978f910403;Amie;McGeraghty;;(769) 9206740;48951-8146;;double;1;$255.69;Euro;3,74622E+14;americanexpress
+89b51e1d-105d-46fd-a680-4ddedb694d03;Wilma;Grant;;(974) 3577403;;;;;;;;
+7fc10ac0-6806-43a2-9b05-1fbcd19ddc76;Dorice;Foreman;dforemanoz@nationalgeographic.com;;;;double double;2;$306.64;Yuan Renminbi;3,56318E+15;jcb
+c8cb3dfe-477b-4f6b-a14c-59c51b458356;Ursala;;ugannanp0@ning.com;(772) 5761553;;;king;2;$360.63;Baht;3,5588E+15;jcb
+806a7b43-977d-4db0-8dda-1fbf9a655435;Mei;Eyree;;(691) 1139384;;;triple;1;$373.11;Rupiah;6,33111E+17;switch
+04a2a22c-a594-41d3-9a19-47df6ad41917;Pippo;Prynne;;(797) 4953091;;;double;1;$474.71;Rupiah;3,5815E+15;jcb
+c91da879-d779-4eda-98aa-be1cfa7d5fcb;Sally;Andrzejczak;;(915) 5769301;;;single;2;$159.65;Kwanza;3,56114E+15;jcb
+f1e70fe4-a80a-4ee4-a92b-602237ea71f6;Hortensia;;;(690) 4249514;;;;;;;;
+a5ec7476-6f0d-4c01-9c95-f50a4cb8fff5;Elysia;Cory;ecoryp5@wsj.com;;;;triple;1;$405.49;Hryvnia;3,53036E+15;jcb
+c575602e-9cfb-4fbf-9d45-d958b124c52b;Alexei;Deeth;;;;;king;2;$736.47;Euro;3,58017E+15;jcb
+2c093864-8da2-4a50-8ac5-3d64e350c14e;Zilvia;Kowalik;;(560) 2550040;;;double;2;$83.32;Som;4,7449E+15;visa
+82882933-5407-44a3-acd7-ef851bbb184f;Zaneta;Darell;zdarellp8@newsvine.com;(678) 5491794;;;single;2;$363.61;Rupiah;5,29919E+15;mastercard
+dcb09cf0-139b-4bca-8275-9a6d62c3d0c1;Toinette;McInteer;tmcinteerp9@xing.com;(122) 4509418;;;double double;2;$678.48;Dollar;3,54957E+15;jcb
+d3fa08fc-d341-4245-b0b9-493baf53d5c3;Hoyt;Elwyn;helwynpa@foxnews.com;(213) 3405268;;;single;3;$140.71;Franc;5,00236E+15;mastercard
+d749d351-6fba-4a37-aa2e-833752d34da6;Hollie;Brigstock;hbrigstockpb@indiegogo.com;(154) 6512335;;;single;3;$257.51;Rial;3,57905E+15;jcb
+c32072e9-5313-4a8f-80e6-ead0746634d1;Hussein;Penswick;hpenswickpc@cnbc.com;(614) 9055195;;;double;3;$152.50;Dinar;6,37236E+15;instapayment
+ff506450-e7b6-4039-9a50-9bd333820f60;Marillin;Bygate;;;;;double double;1;$679.55;Yuan Renminbi;6,77178E+15;laser
+96c11a75-8160-4783-9212-f51f5c5c63bd;Mable;Andreopolos;mandreopolospe@si.edu;(176) 1987588;;;double;2;$640.07;Peso;5,47123E+15;mastercard
+fe9f0456-63bf-4282-8333-c5c550557cd3;Mordecai;;mpeepf@shop-pro.jp;(288) 8091661;;;single;2;$579.77;Won;3,72341E+14;americanexpress
+c34af69a-15e7-4adf-ac32-1e4e78d9c5aa;Joell;Fuzzens;jfuzzenspg@jiathis.com;(131) 9396167;;;double;2;$452.61;Gourde;3,01196E+13;diners-club-carte-blanche
+0038be6d-13f9-489e-ae27-98d30459f3cf;Noelle;Le Floch;;(191) 5108055;;;double;3;$222.13;Yuan Renminbi;5,60225E+15;bankcard
+cf92d5e6-0cae-4160-9192-168745c20cd9;Miguela;Shera;msherapi@ucoz.com;;;;double;1;$185.57;Som;3,55835E+15;jcb
+26c19ef5-2005-470f-b236-8618545ae869;Adham;Attew;aattewpj@google.de;(950) 7436338;;;double double;3;$319.19;Baht;4,50821E+15;visa-electron
+a6cc1518-9fd7-4b02-9b16-8854986b05af;Justis;Cockburn;jcockburnpk@reddit.com;(930) 8217595;;;single;3;$475.61;Yuan Renminbi;3,58437E+15;jcb
+620268e9-3144-4519-a177-5f9e39339517;Warden;Garratty;wgarrattypl@myspace.com;(631) 9072533;58118-0519;;double;3;$48.26;Peso;5,89382E+16;maestro
+02ee1685-2c9c-45f5-acc4-1c3006e53a05;Reinhard;Tondeur;rtondeurpm@aol.com;(939) 2338618;;;single;2;$710.35;Rupiah;5,13714E+15;mastercard
+64a4606a-d815-49e9-9400-4f17efc6429c;Luise;Northill;lnorthillpn@odnoklassniki.ru;(727) 4806581;55118-580;;king;2;$433.10;Peso;5,10014E+15;mastercard
+72def319-664d-4163-956d-c0cf5a836443;Suellen;Duncombe;sduncombepo@gizmodo.com;(606) 2239208;;;double;2;$315.31;Krone;3,54576E+15;jcb
+c7944ce7-54b6-402c-a802-99c6c5e9053a;Paolo;Bould;pbouldpp@yellowbook.com;;;;king;3;$465.82;Shekel;6,37269E+15;instapayment
+3560de31-cb75-4cf2-a378-0a76c859256d;Leontyne;Culwen;lculwenpq@ustream.tv;(196) 7088866;;;single;1;$116.43;Kuna;5,10017E+15;mastercard
+c2d991b4-742a-4e9c-8e98-b545fcf1aed5;Trip;;toldeypr@tamu.edu;(334) 8562799;;;triple;1;$395.34;Dollar;6,30466E+18;laser
+5e46781d-6f74-407a-b8a1-b53333ce8a69;Goddard;;gbarltropps@tumblr.com;(675) 7172541;53746-511;;king;2;$452.31;Rupiah;3,58821E+15;jcb
+93047d41-1742-483f-9b30-9870030401b8;Sayers;Tomaello;stomaellopt@ca.gov;(870) 8983221;;;king;1;$556.79;Shilling;3,5299E+15;jcb
+7331fe54-c24d-424c-86e4-7e2acc859f23;Mina;Placstone;mplacstonepu@businessinsider.com;(883) 7882524;;;double;2;$202.47;Yuan Renminbi;3,58072E+15;jcb
+16bf2833-1676-4d26-8198-5a9edc3fcdfe;Rick;Bullingham;rbullinghampv@ezinearticles.com;;;;triple;2;$633.53;Peso;3,53789E+15;jcb
+08871d91-18cd-4b4e-94cb-ebfeb5f571fa;Rowan;Lowthian;rlowthianpw@umn.edu;(525) 4684266;;;;;;;;
+f8644aa8-61bc-4f88-b6b9-b144b412c946;Jermaine;Grix;jgrixpx@yandex.ru;;;;double;2;$125.90;Krona;2,01707E+14;diners-club-enroute
+3a7e8dcd-dd3e-4e6a-aae1-07639a3fd072;Barde;Van Der Walt;;;;;double;1;$150.66;Euro;3,54163E+15;jcb
+b6227a48-7897-4b92-b604-f1e62d055d2c;Victoria;MacCurtain;;;63868-807;;single;3;$183.56;Kuna;3,02485E+13;diners-club-carte-blanche
+a6799304-6327-4768-978a-d43d7890374a;Grannie;Halsworth;ghalsworthq0@ucoz.ru;(198) 8673603;;;single;1;$507.50;Real;3,54908E+15;jcb
+0aee3733-dea3-4666-8938-4ab085d8a310;Quintilla;MacEntee;qmacenteeq1@squidoo.com;(287) 2647040;;;single;2;$128.83;Krona;6,70698E+16;laser
+608b45b8-f4e8-46d7-ae52-8b21d47e5a44;Lincoln;Broschke;lbroschkeq2@bbc.co.uk;(389) 3550680;;;single;1;$216.24;Yuan Renminbi;5,60223E+17;china-unionpay
+cd7c8a6b-06d6-4559-bc0b-187d848b7b1c;Bettine;Peskin;;(449) 7217262;;;double double;1;$726.24;Yuan Renminbi;3,54421E+15;jcb
+ce64175b-97aa-492d-b439-20b18b4543a9;Bernadette;Arminger;barmingerq4@rediff.com;(947) 5999844;;;triple;3;$521.95;Yuan Renminbi;3,54175E+15;jcb
+4c406448-5681-41ec-a2c8-6797d0628132;Betti;Brewitt;bbrewittq5@123-reg.co.uk;(456) 2354767;;;double;1;$182.56;Peso;4,17501E+15;visa-electron
+9a83525e-1555-4c96-a0d1-4bb2bb6e8dba;Lynea;;lrudallq6@cocolog-nifty.com;;;;double;1;$651.57;Dollar;3,5437E+15;jcb
+6716de1c-bf86-4226-a971-2a46276fc652;Amberly;;aarundelq7@bloglovin.com;(458) 8248262;;;triple;1;$277.80;Ruble;3,58767E+15;jcb
+4a8a41e9-6ccc-4723-8c71-02cafcf7a05a;Daffy;Kenrack;dkenrackq8@gnu.org;(360) 7486849;;;double double;3;$605.68;Ruble;3,53316E+15;jcb
+0145c83b-6487-4f4b-a5d9-9cb79fcc2dec;Donnell;Buttler;dbuttlerq9@home.pl;(972) 7522361;;;triple;3;$487.88;Dollar;4,50817E+15;visa-electron
+9ef3f857-c763-4b99-92b1-61a022400363;Merry;Sinden;msindenqa@cornell.edu;(145) 3540319;;;triple;3;$435.26;Yuan Renminbi;5,04837E+15;mastercard
+ab5a74f1-2523-4a98-a51d-237bdb091b53;Auroora;Kilfedder;;(702) 8964182;;;double;3;$378.70;Litas;3,74288E+14;americanexpress
+783d51a3-65e6-4672-a83f-4c89cffeef88;Laurene;Ameer-Beg;lameerbegqc@mac.com;(729) 4357286;;;double double;1;$195.65;Rupiah;3,55236E+15;jcb
+68a72486-2f0a-4a79-9fe4-22e71825d419;Hakeem;Kubasiewicz;;(793) 1107746;;;triple;1;$741.93;Rial;3,58399E+15;jcb
+7e362935-d265-48c2-843b-c20340db5fa7;Quentin;Retallick;qretallickqe@howstuffworks.com;(395) 5878059;;;single;3;$682.67;Sol;5,60225E+18;china-unionpay
+9f062a94-25cf-4efc-8165-139009509832;Ibrahim;;;(508) 6173341;;;single;1;$164.27;Yuan Renminbi;6,75961E+15;switch
+bfece50f-6eb0-4bd7-a9d0-98e802ede1ad;Jarid;Coverlyn;;(719) 4105961;;;single;3;$515.99;Real;5,23819E+15;mastercard
+2706d04b-b059-4b16-a45f-3312f289e261;Elfrida;;;;;;triple;2;$519.48;Real;3,55508E+15;jcb
+f4f6a9a7-c1c7-4652-a480-d61f5f9ddce0;Alphonso;McMeanma;;(977) 7128793;;;single;3;$247.71;Euro;6,0431E+15;maestro
+5ca9123a-586f-48e9-88da-77e6e2623d84;Mikel;;mkrollmannqj@howstuffworks.com;(754) 2197202;;;double double;1;$496.28;Dollar;3,58377E+15;jcb
+ee9b4049-391e-4b09-8eff-fc433b68b195;Darby;Kornyakov;;(615) 1060042;;;double;2;$709.50;Euro;3,53561E+15;jcb
+95bf0d2f-ff30-420b-9915-acfc45693a52;Dolley;Stephens;;(588) 2690075;;;triple;1;$50.20;Peso;2,01945E+14;diners-club-enroute
+964fccec-14ef-44de-91ff-288166306d58;Karna;Dumbrill;kdumbrillqm@cmu.edu;(224) 2047812;;;single;3;$252.38;Won;3,54835E+15;jcb
+a74be2d1-45f9-4f37-97d7-08d92667c9ff;Vannie;Mullinder;;(581) 8277041;;;;;;;;
+992e04cc-5120-4738-b038-f9b10bab99ad;Roseann;Solley;;(376) 9590829;12462-700;;double;2;$393.76;Peso;3,55473E+15;jcb
+09df9468-2b94-4256-8513-7fb79c7f650a;Jelene;Watting;;(121) 3383197;;;triple;2;$735.99;Rupiah;5,61006E+15;bankcard
+942fa6f3-0ae1-4907-88ba-278d578adce7;Ferris;Mendonca;fmendoncaqq@dagondesign.com;(470) 6782295;;;double double;1;$222.31;Peso;3,53373E+15;jcb
+44a44f19-9230-4708-961b-e3e10dec8a36;Cassi;;;(297) 1514423;;;single;1;$211.27;Yuan Renminbi;3,54558E+15;jcb
+8a279e7f-90ab-415a-b3d3-1714a21f5ef8;Brew;Fozard;;(682) 3637984;;;single;3;$365.92;Bolivar;5,60222E+15;china-unionpay
+1b003d46-05a1-4ce1-a534-28b225051d44;Annabelle;;;;;;double;3;$597.27;Tugrik;3,53579E+15;jcb
+6f5c33ce-0fa9-49dd-8004-016ee04ce92d;Elenore;Hazelby;ehazelbyqu@mashable.com;(185) 9253816;;;single;2;$234.39;Dollar;3,52966E+15;jcb
+7ecbd4d4-3c8f-411f-bb44-f83748f27e7a;Cornela;;cbolgerqv@joomla.org;(556) 8568898;;;single;3;$234.39;Ruble;3,54976E+15;jcb
+9114bd23-6fcb-46f3-bd35-cb55c98baed7;Janene;Cardus;jcardusqw@google.fr;(311) 7706087;50600-002;;double double;2;$246.68;Rupiah;3,57227E+15;jcb
+19612d27-b3b7-4189-bfca-7bba832103b2;Gabbey;Dagnall;gdagnallqx@i2i.jp;(236) 8040866;;;triple;1;$154.39;Yen;5,00235E+15;mastercard
+c7e14fea-b1a2-47bd-9c9e-b6def1b78f71;Tierney;Boch;tbochqy@bing.com;(125) 4567537;;;triple;2;$336.80;Yuan Renminbi;3,57795E+15;jcb
+d00a559b-db1f-40c7-b8d2-4db921218f67;Abdul;Kitcherside;akitchersideqz@squarespace.com;(541) 5427020;;;single;2;$352.80;Hryvnia;5,12199E+15;mastercard
+dbd95c02-ac35-4b0a-bf33-40961509de70;Valry;Freddi;;(505) 6538421;;;double;1;$127.86;Shilling;4,90556E+18;switch
+dd7507ba-40d0-40ec-9379-522b44768ef1;Bellina;Natte;bnatter1@google.com;(786) 1438974;;;triple;2;$175.00;Dollar;2,01648E+14;diners-club-enroute
+2022fd1e-58b5-42eb-a0a3-f18541866eac;Leeanne;Skermer;lskermerr2@vkontakte.ru;(748) 8461747;;;double;2;$460.25;Yuan Renminbi;3,54162E+15;jcb
+4f6cb9e8-7045-4cb2-b099-e0394c42346a;Bonnibelle;;brivilisr3@jigsy.com;;;;single;2;$189.69;Hryvnia;2,01848E+14;diners-club-enroute
+c213906b-aede-4ff5-baee-d10c0d46938e;Katalin;Querree;kquerreer4@imgur.com;(454) 8038140;;;double;3;$303.97;Yen;3,53017E+15;jcb
+a6e4933c-9785-492e-8fec-bde7919a0759;Fenelia;McKerrow;fmckerrowr5@fda.gov;(930) 4115768;;;double;3;$240.87;Sol;3,54212E+15;jcb
+4874ceb2-7eb7-402d-9875-004e30dff7e1;Brendon;Dunkerton;bdunkertonr6@gnu.org;(266) 6570331;;;double;1;$403.30;Krona;2,01714E+14;diners-club-enroute
+12c26d7e-8344-4b55-8e53-3ba50d2bdb41;Meagan;Goacher;mgoacherr7@google.ru;(605) 4838318;;;single;2;$629.92;Yen;6,30494E+17;laser
+7fdb0ed2-f967-4945-abde-6ae904e79fd8;Ami;Bulteel;;(409) 2510882;;;king;3;$647.71;Hryvnia;3,54537E+15;jcb
+750c3303-3286-4e58-b1e2-b6c716f78a7c;Tove;Baudain;;(639) 9243337;;;single;2;$688.09;Yen;3,54386E+15;jcb
+8da5b2dc-353f-43c3-b377-71baf7d83615;Cher;Lamblin;clamblinra@wikispaces.com;(332) 7638334;49520-201;;double;2;$159.36;Ruble;3,58081E+15;jcb
+a494faa8-9421-4534-9a62-836be18ef9f2;Benoite;Dumphy;;(180) 4962112;;;single;1;$130.85;Yuan Renminbi;5,04837E+15;mastercard
+7e408554-170b-45a4-98f8-4428dc07783a;Pembroke;Szymonwicz;;(908) 2947300;;;single;3;$169.05;Rupiah;3,5477E+15;jcb
+37422ab0-c9ca-453f-b52b-d21b4b0c94d1;Glenna;Woolgar;gwoolgarrd@google.cn;(959) 2701004;;;king;1;$503.03;Hryvnia;3,74284E+14;americanexpress
+099193b4-440d-44e5-a8a4-c0dcc6ec7a1e;Fabio;Sarver;fsarverre@java.com;;;;single;1;$405.60;Ruble;5,10018E+15;mastercard
+0463e6aa-959a-4e8b-9966-fa7e9c2be581;Cece;Morten;;(767) 1025930;;;king;3;$521.87;Euro;3,66621E+13;diners-club-international
+d1c23bd7-cecc-4a8d-b78f-949b4f3466eb;Janette;;;(741) 6149600;;;triple;2;$557.72;Euro;3,53804E+15;jcb
+894ed4db-ab56-4dd7-a725-ca48ad422e0d;Peggy;Fogarty;pfogartyrh@spotify.com;;;;single;1;$286.12;Shekel;6,04684E+17;maestro
+b181e740-d0d7-4162-b497-3c99e391bf86;Gretchen;Hadfield;;;;;double;3;$573.46;Ruble;6,3047E+16;maestro
+745f4cf9-666a-4877-bce8-36eca7cbcdfc;Foster;Ensley;fensleyrj@typepad.com;(782) 5831663;;;single;3;$604.29;Sol;5,01854E+15;maestro
+5854332c-0bf2-4af4-b87b-bfe82e0ffdc6;Irvin;Beszant;ibeszantrk@ox.ac.uk;(692) 5572322;;;double;3;$368.74;Hryvnia;3,77213E+14;americanexpress
+677f18bc-69ae-4226-a562-baed5910c4dc;Nat;Redgrave;;(425) 2165630;;;;;;;;
+c0e2ddad-daf6-495c-a28e-4512397ab83b;Ardine;Eubank;aeubankrm@zdnet.com;(823) 4839893;;;triple;2;$293.53;Yuan Renminbi;3,37942E+14;americanexpress
+37e007c6-d163-4283-be30-fdd6f1586750;Jacquelin;;jcoverlyrn@arstechnica.com;(753) 1541480;;;double;2;$458.37;Lempira;6,7716E+15;laser
+c33a378b-ecf5-40d1-a154-746c1199d037;Ezechiel;;ewhittingtonro@devhub.com;(692) 9305039;;;double double;3;$216.29;Tugrik;3,58146E+15;jcb
+fabc56ca-c3cf-40dc-97f1-f370ba1f0c22;Clerc;Mollin;;(847) 4677960;50419-342;;triple;2;$679.44;Yuan Renminbi;6,75916E+17;maestro
+a1171d43-63be-4e2c-a90a-1ec8723bd040;Bron;;;;;;triple;2;$241.62;Peso;3,5442E+15;jcb
+7387de4e-e4f4-4195-9ffd-015e29d686ac;Gilbert;;gklugerrr@google.ca;(968) 8805195;;;single;3;$717.88;Krona;3,54263E+15;jcb
