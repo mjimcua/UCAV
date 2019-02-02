@@ -14,3 +14,7 @@ Fuente: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 *generic_dataset.csv
 
 Fuente: Elaboración propia con https://mockaroo.com/
+
+*web_navigation_example.csv
+
+Fuente: Elaboración propia
