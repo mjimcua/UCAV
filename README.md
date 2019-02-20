@@ -20,4 +20,5 @@ Fuente: Elaboración propia con https://mockaroo.com/
 Fuente: Elaboración propia
 
 PMS_hotel_1.json
+
 Fuente: Elaboración propia transformando a JSON con https://www.csvjson.com/csv2json
